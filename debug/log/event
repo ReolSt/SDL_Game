@@ -1,0 +1,302 @@
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+undefined event
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+---EVENT---
+---EVENT---
+%d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+QUIT
+---EVENT---
