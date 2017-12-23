@@ -2,23 +2,22 @@
 #include "include/print.h"
 
 int
-__inithandler() {
-    flags.running=1;
-    flags.update=1;
+__inithandler(__flags *  __attribute__ ((unused)) flags) {
+    flags->running = 1;
     return 0;
 }
 
 int
-__handleevent(SDL_Event * event) {
+__handleevent(SDL_Event * event, __flags * __attribute__ ((unused)) flags) {
     __printstart(event);
     switch (event->type) {
     case SDL_KEYUP:
     case SDL_KEYDOWN:
-	__handlekey(event, &(event->key));
+	__handlekey(event, flags, &(event->key));
 	break;
     case SDL_QUIT:
 	__printquit(event);
-	__handlequit(event);
+	__handlequit(event, flags);
 	break;
     default:
 	__printend(event);
@@ -28,14 +27,16 @@ __handleevent(SDL_Event * event) {
 }
 
 int
-__handlequit(SDL_Event * __attribute__ ((unused)) event) {
-    flags.running = 0;
+__handlequit(SDL_Event * __attribute__ ((unused)) event, __flags *
+	     __attribute__ ((unused)) flags) {
+    flags->running = 0;
     __printquit(event);
     return 0;
 }
 
 int
 __handlekey(SDL_Event * __attribute__ ((unused)) event,
+	    __flags * __attribute__ ((unused)) flags,
 	    SDL_KeyboardEvent * key) {
     switch (key->type) {
     case SDL_KEYUP:
@@ -47,22 +48,21 @@ __handlekey(SDL_Event * __attribute__ ((unused)) event,
     default:
 	return 1;
     }
-    __handlekeysym(event, &(key->keysym));
+    __handlekeysym(event, flags, &(key->keysym));
     return 0;
 }
 
 int
 __handlekeysym(SDL_Event * __attribute__ ((unused)) event,
+	       __flags * __attribute__ ((unused)) flags,
 	       SDL_Keysym * keysym) {
     __printkeysym(event, keysym);
     switch (keysym->sym) {
     case SDLK_ESCAPE:
-	__handlequit(event);
-	break;
-    case SDLK_1:
+	__handlequit(event, flags);
 	break;
     default:
-	return 1;
+	break;
     }
     return 0;
 }

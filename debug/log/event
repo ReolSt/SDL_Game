@@ -39,6 +39,20 @@ keyname : %s keysym : %d
 --EVENT---
 ---EVENT---
 %d:%d.%d
+KEYDOWN
+keyname : %s keysym : %d
+--EVENT---
+---EVENT---
+%d:%d.%d
+--EVENT---
+--EVENT---
+---EVENT---
+%d:%d.%d
+KEYUP
+keyname : %s keysym : %d
+--EVENT---
+---EVENT---
+%d:%d.%d
 KEYUP
 keyname : %s keysym : %d
 --EVENT---
@@ -62,20 +76,6 @@ keyname : %s keysym : %d
 --EVENT---
 ---EVENT---
 %d:%d.%d
-KEYDOWN
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
---EVENT---
---EVENT---
----EVENT---
-%d:%d.%d
-KEYUP
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
 KEYUP
 keyname : %s keysym : %d
 --EVENT---
@@ -88,19 +88,11 @@ keyname : %s keysym : %d
 %d:%d.%d
 KEYDOWN
 keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
---EVENT---
+QUIT
 --EVENT---
 ---EVENT---
 %d:%d.%d
 KEYUP
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
-KEYDOWN
 keyname : %s keysym : %d
 QUIT
 --EVENT---

@@ -1,20 +1,16 @@
-#ifndef HANDLE_H
-#define HANDLE_H
+#ifndef __HANDLE_H
+#define __HANDLE_H
 
 #include <SDL2/SDL.h>
 #include <time.h>
 
-typedef struct __flags {
+typedef struct {
     int             running;
-    int             update;
-} Flags;
-Flags           flags;
+} __flags;
 
-int __inithandler();
-int             __handleevent(SDL_Event *);
-int             __handlequit(SDL_Event * __attribute__ ((unused)));
-int             __handlekey(SDL_Event * __attribute__ ((unused)),
-			    SDL_KeyboardEvent *);
-int             __handlekeysym(SDL_Event * __attribute__ ((unused)),
-			       SDL_Keysym *);
+int             __inithandler(__flags *);
+int             __handleevent(SDL_Event *, __flags *);
+int             __handlequit(SDL_Event *, __flags *);
+int             __handlekey(SDL_Event *, __flags *, SDL_KeyboardEvent *);
+int             __handlekeysym(SDL_Event *, __flags *, SDL_Keysym *);
 #endif

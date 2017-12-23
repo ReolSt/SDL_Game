@@ -15,11 +15,9 @@ struct tm      *t;
 int             __initprinter();
 int             __destroyprinter();
 int             __printlog(const char *restrict str, ...);
-int             __printstart(SDL_Event * __attribute__ ((unused)));
-int             __printend(SDL_Event * __attribute__ ((unused)));
-int             __printtime(SDL_Event * __attribute__ ((unused)), time_t *,
-			    struct tm *);
-int             __printquit(SDL_Event * __attribute__ ((unused)) event);
-int             __printkeysym(SDL_Event * __attribute__ ((unused)) event,
-			      SDL_Keysym * keysym);
+int             __printstart(SDL_Event *);
+int             __printend(SDL_Event *);
+int             __printtime(SDL_Event *, time_t *, struct tm *);
+int             __printquit(SDL_Event * event);
+int             __printkeysym(SDL_Event * event, SDL_Keysym * keysym);
 #endif
