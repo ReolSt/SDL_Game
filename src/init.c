@@ -59,10 +59,10 @@ __start() {
     windowsurface = NULL;
     startimgsurface = NULL;
     windowsurface = SDL_GetWindowSurface(window);
-    startimgsurface = SDL_LoadBMP("./img/main.bmp");
-    SDL_BlitSurface(startimgsurface, NULL, windowsurface, NULL);
+    startimgsurface = IMG_Load("./img/main.jpg");
     __errorcheck(windowsurface, "windowsurface");
     __errorcheck(startimgsurface, "startimgsurface");
+    SDL_BlitSurface(startimgsurface, NULL, windowsurface, NULL);
     return 0;
 }
 

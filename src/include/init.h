@@ -1,8 +1,8 @@
 #ifndef __INIT_H
 #define __INIT_H
 #include <SDL2/SDL.h>
+#include <SDL2/SDL_image.h>
 #include <stdio.h>
-
 int             width;
 int             height;
 

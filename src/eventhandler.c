@@ -10,8 +10,7 @@ __inithandler() {
 
 int
 __handleevent(SDL_Event * event) {
-    __printlog("---EVENT---\n");
-    __printtime(event, &timer, t);
+    __printstart(event);
     switch (event->type) {
     case SDL_KEYUP:
     case SDL_KEYDOWN:
@@ -22,9 +21,9 @@ __handleevent(SDL_Event * event) {
 	__handlequit(event);
 	break;
     default:
-	__printlog("undefined event\n");
+	__printend(event);
     }
-    __printlog("---EVENT---\n");
+    __printend(event);
     return 0;
 }
 
