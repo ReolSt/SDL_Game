@@ -6,12 +6,6 @@
 #include <stdarg.h>
 #include <time.h>
 
-FILE           *logfile;
-
-time_t          timer;
-struct tm      *t;
-
-
 int             __initprinter();
 int             __destroyprinter();
 int             __printlog(const char *restrict str, ...);

@@ -2,7 +2,7 @@
 #include "include/print.h"
 
 int
-__inithandler(__flags *  __attribute__ ((unused)) flags) {
+__inithandler(__flags * __attribute__ ((unused)) flags) {
     flags->running = 1;
     return 0;
 }
@@ -46,7 +46,7 @@ __handlekey(SDL_Event * __attribute__ ((unused)) event,
 	__printlog("KEYDOWN\n");
 	break;
     default:
-	return 1;
+	break;
     }
     __handlekeysym(event, flags, &(key->keysym));
     return 0;

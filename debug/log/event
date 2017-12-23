@@ -1,98 +1,224 @@
 ---EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 KEYDOWN
-keyname : %s keysym : %d
+keyname : Q keysym : 113
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 KEYDOWN
-keyname : %s keysym : %d
+keyname : W keysym : 119
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
+KEYDOWN
+keyname : E keysym : 101
+--EVENT---
+---EVENT---
+1:57.54
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.54
 KEYUP
-keyname : %s keysym : %d
+keyname : Q keysym : 113
 --EVENT---
 ---EVENT---
-%d:%d.%d
-KEYDOWN
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
---EVENT---
---EVENT---
----EVENT---
-%d:%d.%d
+1:57.54
 KEYUP
-keyname : %s keysym : %d
+keyname : W keysym : 119
 --EVENT---
 ---EVENT---
-%d:%d.%d
-KEYUP
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
+1:57.54
 KEYDOWN
-keyname : %s keysym : %d
+keyname : L keysym : 108
 --EVENT---
 ---EVENT---
-%d:%d.%d
---EVENT---
---EVENT---
----EVENT---
-%d:%d.%d
-KEYDOWN
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
+1:57.54
 --EVENT---
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.54
 KEYUP
-keyname : %s keysym : %d
+keyname : E keysym : 101
 --EVENT---
 ---EVENT---
-%d:%d.%d
-KEYUP
-keyname : %s keysym : %d
---EVENT---
----EVENT---
-%d:%d.%d
+1:57.54
 KEYDOWN
-keyname : %s keysym : %d
+keyname : W keysym : 119
+--EVENT---
+---EVENT---
+1:57.54
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.54
+KEYDOWN
+keyname : M keysym : 109
+--EVENT---
+---EVENT---
+1:57.54
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.54
+KEYDOWN
+keyname : Q keysym : 113
+--EVENT---
+---EVENT---
+1:57.54
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.54
+KEYUP
+keyname : L keysym : 108
+--EVENT---
+---EVENT---
+1:57.54
+KEYDOWN
+keyname : E keysym : 101
+--EVENT---
+---EVENT---
+1:57.54
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.54
+KEYUP
+keyname : M keysym : 109
+--EVENT---
+---EVENT---
+1:57.54
+KEYUP
+keyname : Q keysym : 113
+--EVENT---
+---EVENT---
+1:57.54
+KEYUP
+keyname : W keysym : 119
+--EVENT---
+---EVENT---
+1:57.54
+KEYUP
+keyname : E keysym : 101
+--EVENT---
+---EVENT---
+1:57.55
+KEYDOWN
+keyname : W keysym : 119
+--EVENT---
+---EVENT---
+1:57.55
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.55
+KEYDOWN
+keyname : Q keysym : 113
+--EVENT---
+---EVENT---
+1:57.55
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.55
+KEYDOWN
+keyname : E keysym : 101
+--EVENT---
+---EVENT---
+1:57.55
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.55
+KEYUP
+keyname : Q keysym : 113
+--EVENT---
+---EVENT---
+1:57.55
+KEYUP
+keyname : W keysym : 119
+--EVENT---
+---EVENT---
+1:57.55
+KEYDOWN
+keyname : L keysym : 108
+--EVENT---
+---EVENT---
+1:57.55
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.55
+KEYDOWN
+keyname : K keysym : 107
+--EVENT---
+---EVENT---
+1:57.55
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.55
+KEYUP
+keyname : E keysym : 101
+--EVENT---
+---EVENT---
+1:57.55
+KEYDOWN
+keyname : M keysym : 109
+--EVENT---
+---EVENT---
+1:57.55
+--EVENT---
+--EVENT---
+---EVENT---
+1:57.55
+KEYUP
+keyname : L keysym : 108
+--EVENT---
+---EVENT---
+1:57.55
+KEYUP
+keyname : K keysym : 107
+--EVENT---
+---EVENT---
+1:57.55
+KEYUP
+keyname : M keysym : 109
+--EVENT---
+---EVENT---
+1:57.56
+KEYDOWN
+keyname : Escape keysym : 27
 QUIT
 --EVENT---
 ---EVENT---
-%d:%d.%d
+1:57.56
 KEYUP
-keyname : %s keysym : %d
+keyname : Escape keysym : 27
 QUIT
 --EVENT---

@@ -8,13 +8,13 @@
 int             width;
 int             height;
 
-int             __init();
-int             __destroy();
-int             __loadimage(SDL_Surface **, const char *restrict);
-int             __destroyimage(SDL_Surface **);
-int             __destroysurface(SDL_Surface **);
-int             __destroyevent(SDL_Event **);
-int             __destroyrenderer(SDL_Renderer **);
-int             __destroywindow(SDL_Window **);
+void            __initwindow(SDL_Window **, const char *restrict);
+void            __initrenderer(SDL_Renderer **);
+void            __getwindowsurface(SDL_Window *, SDL_Surface **);
+void            __loadimage(SDL_Surface **, const char *restrict);
+void            __destroyimage(SDL_Surface **);
+void            __destroysurface(SDL_Surface **);
+void            __destroyrenderer(SDL_Renderer **);
+void            __destroywindow(SDL_Window **);
 void            __errorcheck(void *, const char *restrict);
 #endif

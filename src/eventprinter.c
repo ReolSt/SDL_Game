@@ -1,5 +1,10 @@
 #include "include/print.h"
 
+FILE           *logfile;
+
+time_t          timer;
+struct tm      *t;
+
 int
 __initprinter() {
     logfile = fopen("log/event", "w");
@@ -13,8 +18,13 @@ __destroyprinter() {
 }
 int
 __printlog(const char *restrict str, ...) {
-    fprintf(stdout, "%s", str);
-    fprintf(logfile, "%s", str);
+    va_list         params;
+    va_start(params, str);
+    vfprintf(stdout, str, params);
+    va_end(params);
+    va_start(params, str);
+    vfprintf(logfile, str, params);
+    va_end(params);
     return 0;
 }
 
@@ -24,6 +34,7 @@ __printstart(SDL_Event * __attribute__ ((unused)) event) {
     __printtime(event, &timer, t);
     return 0;
 }
+
 int
 __printend(SDL_Event * __attribute__ ((unused)) event) {
     __printlog("--EVENT---\n");
