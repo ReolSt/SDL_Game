@@ -1,7 +1,6 @@
 #ifndef __DRAW_H
 #include <SDL2/SDL.h>
 #include <stdio.h>
-
 int             x;
 int             y;
 

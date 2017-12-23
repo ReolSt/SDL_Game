@@ -2,6 +2,13 @@
 #include "include/print.h"
 
 int
+__inithandler() {
+    flags.running=1;
+    flags.update=1;
+    return 0;
+}
+
+int
 __handleevent(SDL_Event * event) {
     __printlog("---EVENT---\n");
     __printtime(event, &timer, t);
@@ -12,13 +19,10 @@ __handleevent(SDL_Event * event) {
 	break;
     case SDL_QUIT:
 	__printquit(event);
-	__printlog("---EVENT---\n");
 	__handlequit(event);
 	break;
     default:
 	__printlog("undefined event\n");
-	__printlog("---EVENT---\n");
-	return 1;
     }
     __printlog("---EVENT---\n");
     return 0;
@@ -49,7 +53,7 @@ __handlekey(SDL_Event * __attribute__ ((unused)) event,
 }
 
 int
-__handlekeysym(SDL_Event * __attribute((unused)) event,
+__handlekeysym(SDL_Event * __attribute__ ((unused)) event,
 	       SDL_Keysym * keysym) {
     __printkeysym(event, keysym);
     switch (keysym->sym) {

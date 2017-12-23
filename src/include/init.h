@@ -1,6 +1,5 @@
 #ifndef __INIT_H
 #define __INIT_H
-
 #include <SDL2/SDL.h>
 #include <stdio.h>
 
@@ -19,4 +18,6 @@ int             __init();
 int             __destroy();
 int             __start();
 int             __update();
+int             __initflags();
+void            __errorcheck(void *, char *);
 #endif

@@ -30,21 +30,13 @@ __init() {
 				  SDL_RENDERER_ACCELERATED
 				  | SDL_RENDERER_PRESENTVSYNC);
     event = (SDL_Event *) malloc(sizeof(SDL_Event));
-    if (window == NULL) {
-	perror("window");
-	exit(1);
-    }
-    if (renderer == NULL) {
-	perror("renderer");
-	exit(1);
-    }
-    if (event == NULL) {
-	perror("event");
-	exit(1);
-    }
+    __errorcheck(window, "window");
+    __errorcheck(renderer, "renderer");
+    __errorcheck(event, "event");
+
     __initprinter();
-    flags.running = 1;
-    flags.update = 1;
+    __inithandler();
+    
     return 0;
 }
 
@@ -69,14 +61,8 @@ __start() {
     windowsurface = SDL_GetWindowSurface(window);
     startimgsurface = SDL_LoadBMP("./img/main.bmp");
     SDL_BlitSurface(startimgsurface, NULL, windowsurface, NULL);
-    if (windowsurface == NULL) {
-	perror("windowsurface");
-	exit(1);
-    }
-    if (startimgsurface == NULL) {
-	perror("startimgsurface");
-	exit(1);
-    }
+    __errorcheck(windowsurface, "windowsurface");
+    __errorcheck(startimgsurface, "startimgsurface");
     return 0;
 }
 
@@ -84,4 +70,12 @@ int
 __update() {
     SDL_UpdateWindowSurface(window);
     return 0;
+}
+
+void
+__errorcheck(void *object, char *objname) {
+    if (object == NULL) {
+	perror(objname);
+	exit(1);
+    }
 }
