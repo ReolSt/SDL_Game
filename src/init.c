@@ -2,7 +2,6 @@
 #include "include/handle.h"
 #include "include/print.h"
 #include "include/menu.h"
-#include <unistd.h>
 
 __color         white = { 255, 255, 255, 255 };
 __color         black = { 0, 0, 0, 255 };
