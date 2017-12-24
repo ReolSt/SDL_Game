@@ -2,6 +2,12 @@
 #define __INIT_H
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
+
+#if defined(__LINUX__) || defined(__UNIX__)
+#include <unistd.h>
+#include <fctnl.h>
+#endif
+
 #include <stdio.h>
 #include <stdarg.h>
 
