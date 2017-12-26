@@ -30,10 +30,18 @@ int
 __handlequit(SDL_Event * __attribute__ ((unused)) event, __flags *
 	     __attribute__ ((unused)) flags) {
     flags->running = 0;
+    flags->quit = 1;
     __printquit(event);
     return 0;
 }
 
+int
+__handlerunning(SDL_Event * __attribute__ ((unused)) event,
+		__flags * __attribute__ ((unused)) flags) {
+    flags->running = 0;
+    __printrunningend(event);
+    return 0;
+}
 int
 __handlekey(SDL_Event * __attribute__ ((unused)) event,
 	    __flags * __attribute__ ((unused)) flags,
@@ -41,6 +49,7 @@ __handlekey(SDL_Event * __attribute__ ((unused)) event,
     switch (key->type) {
     case SDL_KEYUP:
 	__printlog("KEYUP\n");
+	__handlekeysym(event, flags, &(key->keysym));
 	break;
     case SDL_KEYDOWN:
 	__printlog("KEYDOWN\n");
@@ -48,7 +57,6 @@ __handlekey(SDL_Event * __attribute__ ((unused)) event,
     default:
 	break;
     }
-    __handlekeysym(event, flags, &(key->keysym));
     return 0;
 }
 
@@ -57,7 +65,7 @@ __handlekeysym(SDL_Event * __attribute__ ((unused)) event,
 	       __flags * __attribute__ ((unused)) flags,
 	       SDL_Keysym * keysym) {
     __printkeysym(event, keysym);
-    switch (keysym->sym) {
+    o switch (keysym->sym) {
     case SDLK_ESCAPE:
 	__handlequit(event, flags);
 	break;
@@ -65,4 +73,5 @@ __handlekeysym(SDL_Event * __attribute__ ((unused)) event,
 	break;
     }
     return 0;
+
 }

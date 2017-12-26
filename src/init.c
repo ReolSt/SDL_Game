@@ -2,13 +2,6 @@
 #include "include/handle.h"
 #include "include/print.h"
 #include "include/menu.h"
-#include <unistd.h>
-
-__color         white = { 255, 255, 255, 255 };
-__color         black = { 0, 0, 0, 255 };
-__color         red = { 255, 0, 0, 255 };
-__color         green = { 0, 255, 0, 255 };
-__color         blue = { 0, 0, 255, 255 };
 
 int             width = 1280;
 int             height = 720;
@@ -19,58 +12,86 @@ SDL_Event       event;
 SDL_Event       gameevent;
 SDL_Surface    *mainwindowsurface;
 SDL_Surface    *startimgsurface;
+SDL_Surface    *mainmenusurface;
 SDL_Surface    *gameimgsurface;
+TTF_Font       *menuttf;	// default
+
+SDL_Color       black = { 0, 0, 0, 255 };
+SDL_Color       white = { 255, 255, 255, 255 };
+SDL_Color       red = { 255, 0, 0, 255 };
+SDL_Color       green = { 0, 255, 0, 255 };
+SDL_Color       blue = { 0, 0, 255, 255 };
 
 // handler
-__flags         mainflags;
-__flags         gameflags;
+__flags         mainflags = { 0, 0, 0 };
+__flags         gameflags = { 0, 0, 0 };
 
 int
 main(int __attribute__ ((unused)) argc, char **
      __attribute__ ((unused)) argv) {
 
     SDL_Init(SDL_INIT_EVERYTHING);
+
     __initwindow(&mainwindow, "debug");
     __initrenderer(&renderer);
     __inithandler(&mainflags);
     __initprinter();
 
     __getwindowsurface(mainwindow, &mainwindowsurface);
+    // __loadttf(&menuttf,"arial.ttf");
 
-    __loadimage(&startimgsurface, "img/main.jpg");
+    while (!mainflags.quit || !gameflags.quit) {
 
-    SDL_BlitSurface(startimgsurface, NULL, mainwindowsurface, NULL);
+	if (mainflags.running) {
 
-    while (mainflags.running) {
+	    if (!mainflags.init) {
+		__loadimage(&startimgsurface, "img/main.jpg");
+		__loadimage(&mainmenusurface, "img/menubackground.jpg");
+		SDL_BlitSurface(startimgsurface, NULL, mainwindowsurface,
+				NULL);
 
-	while (SDL_PollEvent(&event)) {
-	    __handleevent(&event, &mainflags);
+		mainflags.init = 1;
+	    }
+
+	    while (SDL_PollEvent(&event)) {
+		__handleevent(&event, &mainflags);
+	    }
 	}
+
+
+	if (gameflags.running) {
+
+	    if (!gameflags.init) {
+		__loadimage(&gameimgsurface, "img/game.jpg");
+		SDL_BlitSurface(gameimgsurface, NULL, mainwindowsurface,
+				NULL);
+		gameflags.init = 1;
+	    }
+
+	    while (SDL_PollEvent(&event)) {
+		__handleevent(&event, &gameflags);
+	    }
+
+	}
+
+	if (!mainflags.running && mainflags.init && !gameflags.running
+	    && !gameflags.init) {
+	    gameflags.running = 1;
+	}
+
+	if (!mainflags.running && !gameflags.running) {
+	    break;
+	}
+
 	SDL_UpdateWindowSurface(mainwindow);
     }
 
     __destroyimage(&startimgsurface);
-
-
-    __inithandler(&gameflags);
-
-    __loadimage(&gameimgsurface, "img/game.jpg");
-
-    SDL_BlitSurface(gameimgsurface, NULL, mainwindowsurface, NULL);
-
-    while (gameflags.running) {
-
-	while (SDL_PollEvent(&gameevent)) {
-	    __handleevent(&gameevent, &gameflags);
-	}
-	SDL_UpdateWindowSurface(mainwindow);
-    }
-
-    sleep(1);
-
     __destroyimage(&gameimgsurface);
+
     __destroysurface(&mainwindowsurface);
     __destroywindow(&mainwindow);
+    __destroyttf(&menuttf);
     __destroyrenderer(&renderer);
     __destroyprinter();
     SDL_Quit();
@@ -87,9 +108,9 @@ __initwindow(SDL_Window ** windowptr, const char *restrict text) {
 
 void
 __initrenderer(SDL_Renderer ** rendererptr) {
+    *rendererptr = NULL;
     *rendererptr = SDL_CreateRenderer(mainwindow, -1,
-				      SDL_RENDERER_ACCELERATED
-				      | SDL_RENDERER_PRESENTVSYNC);
+				      SDL_RENDERER_ACCELERATED);
     __errorcheck(*rendererptr, "renderer");
 }
 
@@ -98,6 +119,13 @@ __loadimage(SDL_Surface ** imagesurface, const char *restrict file) {
     *imagesurface = NULL;
     *imagesurface = IMG_Load(file);
     __errorcheck(*imagesurface, "loadimage");
+}
+
+void
+__loadttf(TTF_Font ** fontptr, const char *restrict file) {
+    *fontptr = NULL;
+    *fontptr = TTF_OpenFont(file, 20);
+    __errorcheck(*fontptr, "loadttf");
 }
 
 void
@@ -132,6 +160,12 @@ void
 __destroywindow(SDL_Window ** windowptr) {
     __errorcheck(*windowptr, "destroywindow");
     SDL_DestroyWindow(*windowptr);
+}
+
+void
+__destroyttf(TTF_Font ** fontptr) {
+    __errorcheck(*fontptr, "destroyttf");
+    TTF_CloseFont(*fontptr);
 }
 
 void

@@ -57,6 +57,11 @@ __printquit(SDL_Event * __attribute__ ((unused)) event) {
 }
 
 int
+__printrunningend(SDL_Event * __attribute ((unused)) event) {
+    // not yet
+    return 0;
+}
+int
 __printkeysym(SDL_Event * __attribute__ ((unused)) event,
 	      SDL_Keysym * keysym) {
     __printlog("keyname : %s keysym : %d\n", SDL_GetKeyName(keysym->sym),
