@@ -32,6 +32,7 @@ main(int __attribute__ ((unused)) argc, char **
 
     SDL_Init(SDL_INIT_EVERYTHING);
 
+
     __initwindow(&mainwindow, "debug");
     __initrenderer(&renderer);
     __inithandler(&mainflags);

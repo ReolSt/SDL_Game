@@ -65,10 +65,16 @@ __handlekeysym(SDL_Event * __attribute__ ((unused)) event,
 	       __flags * __attribute__ ((unused)) flags,
 	       SDL_Keysym * keysym) {
     __printkeysym(event, keysym);
-    o switch (keysym->sym) {
+    switch (keysym->sym) {
     case SDLK_ESCAPE:
 	__handlequit(event, flags);
 	break;
+    case SDLK_DOWN:
+	__handlerunningend(event, flags);
+	return 1;
+    case SDLK_UP:
+	__handlerunningend(event, flags);
+	return 2;
     default:
 	break;
     }

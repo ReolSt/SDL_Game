@@ -14,6 +14,6 @@ int             __printstart(SDL_Event *);
 int             __printend(SDL_Event *);
 int             __printtime(SDL_Event *, time_t *, struct tm *);
 int             __printquit(SDL_Event *);
-int __printrunningend(SDL_Event *);
+int             __printrunningend(SDL_Event *);
 int             __printkeysym(SDL_Event *, SDL_Keysym *);
 #endif
