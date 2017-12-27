@@ -3,6 +3,14 @@
 #include "include/print.h"
 #include "include/menu.h"
 
+
+__color         white = { 255, 255, 255, 255 };
+__color         black = { 0, 0, 0, 255 };
+__color         red = { 255, 0, 0, 255 };
+__color         green = { 0, 255, 0, 255 };
+__color         blue = { 0, 0, 255, 255 };
+
+
 int             width = 1280;
 int             height = 720;
 
