@@ -30,18 +30,11 @@ int
 __handlequit(SDL_Event * __attribute__ ((unused)) event, __flags *
 	     __attribute__ ((unused)) flags) {
     flags->running = 0;
-    flags->quit = 1;
     __printquit(event);
     return 0;
 }
 
-int
-__handlerunning(SDL_Event * __attribute__ ((unused)) event,
-		__flags * __attribute__ ((unused)) flags) {
-    flags->running = 0;
-    __printrunningend(event);
-    return 0;
-}
+
 int
 __handlekey(SDL_Event * __attribute__ ((unused)) event,
 	    __flags * __attribute__ ((unused)) flags,
@@ -69,12 +62,6 @@ __handlekeysym(SDL_Event * __attribute__ ((unused)) event,
     case SDLK_ESCAPE:
 	__handlequit(event, flags);
 	break;
-    case SDLK_DOWN:
-	__handlerunningend(event, flags);
-	return 1;
-    case SDLK_UP:
-	__handlerunningend(event, flags);
-	return 2;
     default:
 	break;
     }

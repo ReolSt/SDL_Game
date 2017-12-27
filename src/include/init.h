@@ -12,14 +12,11 @@
 #include <stdio.h>
 #include <stdarg.h>
 
-int             width;
-int             height;
-
 void            __initwindow(SDL_Window **, const char *restrict);
 void            __initrenderer(SDL_Renderer **);
 void            __getwindowsurface(SDL_Window *, SDL_Surface **);
 void            __loadimage(SDL_Surface **, const char *restrict);
-void            __loadttf(TTF_Font **, const char *restrict);
+void            __loadttf(TTF_Font **, const char *restrict, int);
 void            __destroyimage(SDL_Surface **);
 void            __destroysurface(SDL_Surface **);
 void            __destroyrenderer(SDL_Renderer **);

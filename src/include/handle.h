@@ -13,7 +13,6 @@ typedef struct {
 int             __inithandler(__flags *);
 int             __handleevent(SDL_Event *, __flags *);
 int             __handlequit(SDL_Event *, __flags *);
-int             __handlerunningend(SDL_Event *, __flags *);
 int             __handlekey(SDL_Event *, __flags *, SDL_KeyboardEvent *);
 int             __handlekeysym(SDL_Event *, __flags *, SDL_Keysym *);
 #endif

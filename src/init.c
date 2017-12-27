@@ -22,6 +22,8 @@ SDL_Color       red = { 255, 0, 0, 255 };
 SDL_Color       green = { 0, 255, 0, 255 };
 SDL_Color       blue = { 0, 0, 255, 255 };
 
+SDL_Rect        mainmenurect = { 1280 / 2, 720 / 2, 0, 0 };
+SDL_Rect        mainmenurect2 = { 1280 / 2, 720 / 2 + 20, 0, 0 };
 // handler
 __flags         mainflags = { 0, 0, 0 };
 __flags         gameflags = { 0, 0, 0 };
@@ -31,7 +33,7 @@ main(int __attribute__ ((unused)) argc, char **
      __attribute__ ((unused)) argv) {
 
     SDL_Init(SDL_INIT_EVERYTHING);
-
+    TTF_Init();
 
     __initwindow(&mainwindow, "debug");
     __initrenderer(&renderer);
@@ -39,62 +41,39 @@ main(int __attribute__ ((unused)) argc, char **
     __initprinter();
 
     __getwindowsurface(mainwindow, &mainwindowsurface);
-    // __loadttf(&menuttf,"arial.ttf");
+    __loadttf(&menuttf, "font/LM-Regular.ttf", 20);
 
-    while (!mainflags.quit || !gameflags.quit) {
+    mainmenusurface =
+	TTF_RenderText_Shaded(menuttf, "hello", white, black);
 
-	if (mainflags.running) {
-
-	    if (!mainflags.init) {
-		__loadimage(&startimgsurface, "img/main.jpg");
-		__loadimage(&mainmenusurface, "img/menubackground.jpg");
-		SDL_BlitSurface(startimgsurface, NULL, mainwindowsurface,
-				NULL);
-
-		mainflags.init = 1;
-	    }
-
-	    while (SDL_PollEvent(&event)) {
-		__handleevent(&event, &mainflags);
-	    }
+    while (mainflags.running) {
+	if (!mainflags.init) {
+	    __loadimage(&startimgsurface, "img/main.jpg");
+	    SDL_BlitSurface(startimgsurface, NULL, mainwindowsurface,
+			    NULL);
+	    SDL_BlitSurface(mainmenusurface, NULL, mainwindowsurface,
+			    &mainmenurect);
+	    mainmenusurface =
+		TTF_RenderText_Shaded(menuttf, "world", white, black);
+	    SDL_BlitSurface(mainmenusurface, NULL, mainwindowsurface,
+			    &mainmenurect2);
+	    mainflags.init = 1;
 	}
 
-
-	if (gameflags.running) {
-
-	    if (!gameflags.init) {
-		__loadimage(&gameimgsurface, "img/game.jpg");
-		SDL_BlitSurface(gameimgsurface, NULL, mainwindowsurface,
-				NULL);
-		gameflags.init = 1;
-	    }
-
-	    while (SDL_PollEvent(&event)) {
-		__handleevent(&event, &gameflags);
-	    }
-
-	}
-
-	if (!mainflags.running && mainflags.init && !gameflags.running
-	    && !gameflags.init) {
-	    gameflags.running = 1;
-	}
-
-	if (!mainflags.running && !gameflags.running) {
-	    break;
+	while (SDL_PollEvent(&event)) {
+	    __handleevent(&event, &mainflags);
 	}
 
 	SDL_UpdateWindowSurface(mainwindow);
     }
 
+    __destroyttf(&menuttf);
     __destroyimage(&startimgsurface);
-    __destroyimage(&gameimgsurface);
-
     __destroysurface(&mainwindowsurface);
     __destroywindow(&mainwindow);
-    __destroyttf(&menuttf);
     __destroyrenderer(&renderer);
     __destroyprinter();
+    TTF_Quit();
     SDL_Quit();
 }
 
@@ -123,9 +102,9 @@ __loadimage(SDL_Surface ** imagesurface, const char *restrict file) {
 }
 
 void
-__loadttf(TTF_Font ** fontptr, const char *restrict file) {
+__loadttf(TTF_Font ** fontptr, const char *restrict file, int size) {
     *fontptr = NULL;
-    *fontptr = TTF_OpenFont(file, 20);
+    *fontptr = TTF_OpenFont(file, size);
     __errorcheck(*fontptr, "loadttf");
 }
 
