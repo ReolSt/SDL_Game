@@ -1,19 +1,18 @@
 #ifndef __PRINT_H
 #define __PRINT_H
 
-#include <SDL2/SDL.h>
-#include <SDL2/SDL_ttf.h>
-#include <stdio.h>
-#include <stdarg.h>
-#include <time.h>
+#include "library.h"
 
-int             __initprinter();
-int             __destroyprinter();
-int             __printlog(const char *restrict, ...);
-int             __printstart(SDL_Event *);
-int             __printend(SDL_Event *);
-int             __printtime(SDL_Event *, time_t *, struct tm *);
-int             __printquit(SDL_Event *);
-int             __printrunningend(SDL_Event *);
-int             __printkeysym(SDL_Event *, SDL_Keysym *);
+void            __initprinter();
+void            __destroyprinter();
+void            __printlog(const char *restrict, ...);
+void            __printstart(SDL_Event *);
+void            __printend(SDL_Event *);
+void            __printtime(SDL_Event *, time_t *, struct tm *);
+void            __printquit(SDL_Event *);
+void            __printrunningend(SDL_Event *);
+void            __printkeysym(SDL_Event *, SDL_Keysym *);
+void            __printmousebutton(SDL_Event *, SDL_MouseButtonEvent *);
+void            __printmousemotion(SDL_Event *, SDL_MouseMotionEvent *);
+
 #endif

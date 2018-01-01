@@ -1,7 +1,7 @@
 clean :
 	rm -rf debug
 
-debug :
+dbg :
 	mkdir debug \
 	&& cd src \
 	&& gcc -o ../debug/game -g `find . -name "*.c"` -lSDL2 -lSDL2_image -lSDL2_ttf \
@@ -13,9 +13,12 @@ debug :
 	&& mkdir debug/font \
 	&& cp `find . -name "*.ttf"` debug/font
 
-run :
+debug :
 	make clean \
-	&& make debug \
+	&& make debug
+
+run :
+	make debug \
 	&& cd debug \
 	&& ./game \
 	&& cd .. 
