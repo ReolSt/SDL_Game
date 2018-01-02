@@ -6,1434 +6,4884 @@
 
 
 
-x : 479 y : 253 xrel : 479 yrel : 253
+
+timestamp : 1646x : 778 y : 3 xrel : 778 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1660x : 771 y : 24 xrel : -7 yrel : 21
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1675x : 763 y : 61 xrel : -8 yrel : 37
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1689x : 757 y : 98 xrel : -6 yrel : 37
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1721x : 750 y : 119 xrel : -7 yrel : 21
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1721x : 741 y : 133 xrel : -9 yrel : 14
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1757x : 728 y : 146 xrel : -13 yrel : 13
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1757x : 715 y : 162 xrel : -13 yrel : 16
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1757x : 701 y : 185 xrel : -14 yrel : 23
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1784x : 679 y : 228 xrel : -22 yrel : 43
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1784x : 672 y : 239 xrel : -7 yrel : 11
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1816x : 667 y : 245 xrel : -5 yrel : 6
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1816x : 665 y : 247 xrel : -2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1853x : 664 y : 250 xrel : -1 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1853x : 663 y : 252 xrel : -1 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1853x : 661 y : 257 xrel : -2 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1880x : 658 y : 264 xrel : -3 yrel : 7
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 1880x : 656 y : 272 xrel : -2 yrel : 8
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2056x : 656 y : 274 xrel : 0 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2070x : 658 y : 277 xrel : 2 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2084x : 661 y : 280 xrel : 3 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2113x : 665 y : 284 xrel : 4 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2113x : 671 y : 289 xrel : 6 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2131x : 676 y : 295 xrel : 5 yrel : 6
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2131x : 685 y : 305 xrel : 9 yrel : 10
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2162x : 704 y : 321 xrel : 19 yrel : 16
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2162x : 711 y : 326 xrel : 7 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2198x : 713 y : 327 xrel : 2 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2198x : 713 y : 328 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2312x : 709 y : 333 xrel : -4 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2322x : 707 y : 335 xrel : -2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2336x : 704 y : 337 xrel : -3 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2346x : 702 y : 341 xrel : -2 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2357x : 700 y : 345 xrel : -2 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2386x : 697 y : 349 xrel : -3 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2386x : 695 y : 354 xrel : -2 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2418x : 693 y : 357 xrel : -2 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2418x : 690 y : 359 xrel : -3 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2448x : 685 y : 362 xrel : -5 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2448x : 683 y : 362 xrel : -2 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2481x : 681 y : 363 xrel : -2 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2481x : 679 y : 363 xrel : -2 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2481x : 677 y : 363 xrel : -2 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2509x : 669 y : 363 xrel : -8 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2509x : 667 y : 363 xrel : -2 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2542x : 660 y : 362 xrel : -7 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2543x : 656 y : 362 xrel : -4 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2543x : 651 y : 362 xrel : -5 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2579x : 649 y : 362 xrel : -2 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2579x : 648 y : 362 xrel : -1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2648x : 646 y : 363 xrel : -2 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2662x : 645 y : 364 xrel : -1 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2686x : 645 y : 365 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2698x : 645 y : 367 xrel : 0 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2721x : 646 y : 369 xrel : 1 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2732x : 648 y : 371 xrel : 2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2760x : 650 y : 373 xrel : 2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2760x : 652 y : 375 xrel : 2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2797x : 654 y : 377 xrel : 2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2797x : 660 y : 382 xrel : 6 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2797x : 663 y : 384 xrel : 3 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2824x : 665 y : 386 xrel : 2 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2834x : 665 y : 387 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2896x : 665 y : 386 xrel : 0 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2926x : 664 y : 386 xrel : -1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2926x : 664 y : 385 xrel : 0 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2962x : 663 y : 385 xrel : -1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 2962x : 662 y : 384 xrel : -1 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3000x : 661 y : 383 xrel : -1 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3000
+x : 661 y : 383
+state : 1, clicks : 1, button : 1
+padding1 : 0, type : 1025, which : 0, windowID : 2
+
+timestamp : 3000x : 661 y : 382 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3331x : 659 y : 381 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3342x : 656 y : 381 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3356x : 645 y : 380 xrel : -11 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3366x : 637 y : 377 xrel : -8 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3407x : 630 y : 376 xrel : -7 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3407x : 623 y : 375 xrel : -7 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3417x : 617 y : 374 xrel : -6 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3442x : 613 y : 374 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3442x : 611 y : 374 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3453x : 610 y : 374 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3477x : 610 y : 373 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3515x : 609 y : 373 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3583x : 600 y : 373 xrel : -9 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3583x : 597 y : 373 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3583x : 594 y : 373 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3606x : 593 y : 373 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3652x : 577 y : 370 xrel : -16 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3666x : 565 y : 369 xrel : -12 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3676x : 550 y : 368 xrel : -15 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3698x : 539 y : 367 xrel : -11 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3724x : 531 y : 366 xrel : -8 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3724x : 526 y : 366 xrel : -5 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3758x : 518 y : 368 xrel : -8 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3758x : 513 y : 370 xrel : -5 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3758x : 509 y : 372 xrel : -4 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3794x : 505 y : 374 xrel : -4 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3794x : 502 y : 376 xrel : -3 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3804x : 498 y : 378 xrel : -4 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3827x : 494 y : 379 xrel : -4 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3827x : 486 y : 383 xrel : -8 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3860x : 481 y : 386 xrel : -5 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3860x : 477 y : 390 xrel : -4 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3897x : 475 y : 393 xrel : -2 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3897x : 474 y : 396 xrel : -1 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3934x : 473 y : 397 xrel : -1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3934x : 473 y : 400 xrel : 0 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3964x : 473 y : 402 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3964x : 473 y : 404 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 3975x : 473 y : 406 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4000x : 475 y : 410 xrel : 2 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4000x : 477 y : 413 xrel : 2 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4011x : 479 y : 414 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4036x : 481 y : 414 xrel : 2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4066x : 484 y : 414 xrel : 3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4066x : 488 y : 412 xrel : 4 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4066x : 493 y : 408 xrel : 5 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4099x : 499 y : 397 xrel : 6 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4099x : 516 y : 320 xrel : 17 yrel : -77
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4109x : 518 y : 288 xrel : 2 yrel : -32
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4140x : 518 y : 253 xrel : 0 yrel : -35
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4140x : 517 y : 223 xrel : -1 yrel : -30
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4171x : 512 y : 218 xrel : -5 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4171x : 510 y : 217 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4200x : 508 y : 216 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4200x : 504 y : 214 xrel : -4 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4217x : 494 y : 209 xrel : -10 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4264x : 488 y : 207 xrel : -6 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4264x : 477 y : 205 xrel : -11 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4264x : 471 y : 205 xrel : -6 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4264x : 462 y : 204 xrel : -9 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4299x : 459 y : 204 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4299x : 454 y : 205 xrel : -5 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4332x : 451 y : 206 xrel : -3 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4332x : 449 y : 208 xrel : -2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4332x : 446 y : 211 xrel : -3 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4367x : 444 y : 216 xrel : -2 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4367x : 443 y : 220 xrel : -1 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4401x : 440 y : 230 xrel : -3 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4401x : 439 y : 238 xrel : -1 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4401x : 439 y : 239 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4437x : 439 y : 241 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4437x : 439 y : 243 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4507x : 440 y : 245 xrel : 1 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4531x : 442 y : 248 xrel : 2 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4603x : 443 y : 248 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4648x : 445 y : 248 xrel : 2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4676x : 446 y : 249 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4921x : 446 y : 248 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+
+timestamp : 4956x : 446 y : 257 xrel : 0 yrel : 9
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4966x : 447 y : 261 xrel : 1 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4993x : 449 y : 266 xrel : 2 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 4993x : 451 y : 271 xrel : 2 yrel : 5
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5032x : 452 y : 275 xrel : 1 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5032x : 455 y : 281 xrel : 3 yrel : 6
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5032x : 457 y : 288 xrel : 2 yrel : 7
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5061x : 462 y : 296 xrel : 5 yrel : 8
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5061x : 463 y : 299 xrel : 1 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5071x : 465 y : 300 xrel : 2 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5096x : 465 y : 301 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5130x : 466 y : 301 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5130x : 466 y : 302 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5130x : 467 y : 304 xrel : 1 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5158x : 468 y : 307 xrel : 1 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5158x : 470 y : 310 xrel : 2 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5169x : 472 y : 317 xrel : 2 yrel : 7
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5206x : 474 y : 320 xrel : 2 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5206x : 475 y : 321 xrel : 1 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5233x : 475 y : 322 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5233x : 475 y : 323 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5269x : 477 y : 332 xrel : 2 yrel : 9
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5269x : 482 y : 343 xrel : 5 yrel : 11
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5300x : 485 y : 350 xrel : 3 yrel : 7
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5300x : 487 y : 354 xrel : 2 yrel : 4
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5332x : 488 y : 356 xrel : 1 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5332x : 488 y : 357 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5363x : 488 y : 359 xrel : 0 yrel : 2
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5363x : 488 y : 362 xrel : 0 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5395x : 490 y : 369 xrel : 2 yrel : 7
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5395x : 491 y : 370 xrel : 1 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5395x : 491 y : 371 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5528x : 492 y : 374 xrel : 1 yrel : 3
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 5528
+x : 492 y : 374
+state : 1, clicks : 1, button : 1
+padding1 : 0, type : 1025, which : 0, windowID : 2
+
+timestamp : 5738x : 492 y : 373 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+
+timestamp : 6160x : 491 y : 372 xrel : -1 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6185x : 491 y : 371 xrel : 0 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6185
+x : 491 y : 371
+state : 1, clicks : 1, button : 1
+padding1 : 0, type : 1025, which : 0, windowID : 2
+
+timestamp : 6195x : 490 y : 371 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6338x : 490 y : 370 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6352x : 490 y : 369 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6372x : 489 y : 368 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6383x : 489 y : 367 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6409x : 488 y : 366 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6409x : 487 y : 363 xrel : -1 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6420x : 484 y : 355 xrel : -3 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6443x : 479 y : 344 xrel : -5 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6479x : 478 y : 342 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6479x : 477 y : 342 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6479x : 477 y : 341 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6490x : 475 y : 341 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6515x : 474 y : 341 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6515x : 473 y : 340 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6552x : 472 y : 339 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6552x : 453 y : 313 xrel : -19 yrel : -26
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6552x : 432 y : 289 xrel : -21 yrel : -24
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6583x : 412 y : 276 xrel : -20 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6583x : 394 y : 268 xrel : -18 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6618x : 372 y : 258 xrel : -22 yrel : -10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6618x : 367 y : 256 xrel : -5 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6629x : 359 y : 253 xrel : -8 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6656x : 352 y : 249 xrel : -7 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6656x : 344 y : 247 xrel : -8 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6667x : 338 y : 247 xrel : -6 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6692x : 331 y : 247 xrel : -7 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6692x : 321 y : 247 xrel : -10 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6723x : 318 y : 249 xrel : -3 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6723x : 315 y : 250 xrel : -3 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6760x : 312 y : 253 xrel : -3 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6760x : 308 y : 256 xrel : -4 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6791x : 304 y : 258 xrel : -4 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6791x : 301 y : 261 xrel : -3 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6791x : 296 y : 266 xrel : -5 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6819x : 293 y : 270 xrel : -3 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6819x : 292 y : 275 xrel : -1 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6853x : 291 y : 284 xrel : -1 yrel : 9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6853x : 291 y : 294 xrel : 0 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6864x : 291 y : 302 xrel : 0 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6888x : 291 y : 313 xrel : 0 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6921x : 293 y : 318 xrel : 2 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6921x : 295 y : 325 xrel : 2 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6921x : 298 y : 333 xrel : 3 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6936x : 302 y : 343 xrel : 4 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6983x : 308 y : 354 xrel : 6 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6983x : 325 y : 367 xrel : 17 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6983x : 333 y : 371 xrel : 8 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 6994x : 344 y : 375 xrel : 11 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7024x : 353 y : 379 xrel : 9 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7024x : 361 y : 381 xrel : 8 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7058x : 366 y : 382 xrel : 5 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7058x : 370 y : 382 xrel : 4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7058x : 377 y : 381 xrel : 7 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7094x : 380 y : 380 xrel : 3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7094x : 384 y : 378 xrel : 4 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7104x : 388 y : 375 xrel : 4 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7130x : 394 y : 369 xrel : 6 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7130x : 402 y : 358 xrel : 8 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7163x : 423 y : 324 xrel : 21 yrel : -34
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7163x : 432 y : 308 xrel : 9 yrel : -16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7199x : 436 y : 295 xrel : 4 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7199x : 439 y : 280 xrel : 3 yrel : -15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7199x : 441 y : 260 xrel : 2 yrel : -20
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7230x : 442 y : 243 xrel : 1 yrel : -17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7230x : 442 y : 229 xrel : 0 yrel : -14
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7259x : 442 y : 222 xrel : 0 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7259x : 442 y : 221 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7269x : 438 y : 218 xrel : -4 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7301x : 429 y : 212 xrel : -9 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7301x : 420 y : 211 xrel : -9 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7311x : 408 y : 207 xrel : -12 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7339x : 396 y : 206 xrel : -12 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7339x : 375 y : 206 xrel : -21 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7368x : 364 y : 209 xrel : -11 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7368x : 352 y : 211 xrel : -12 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7406x : 343 y : 214 xrel : -9 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7406x : 335 y : 217 xrel : -8 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7442x : 331 y : 219 xrel : -4 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7442x : 328 y : 222 xrel : -3 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7442x : 325 y : 233 xrel : -3 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7470x : 323 y : 250 xrel : -2 yrel : 17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7470x : 323 y : 272 xrel : 0 yrel : 22
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7481x : 323 y : 287 xrel : 0 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7509x : 323 y : 295 xrel : 0 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7509x : 323 y : 302 xrel : 0 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7520x : 324 y : 313 xrel : 1 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7549x : 347 y : 363 xrel : 23 yrel : 50
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7549x : 369 y : 382 xrel : 22 yrel : 19
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7578x : 389 y : 392 xrel : 20 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7578x : 402 y : 399 xrel : 13 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7616x : 410 y : 404 xrel : 8 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7616x : 417 y : 407 xrel : 7 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7653x : 431 y : 409 xrel : 14 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7653x : 438 y : 409 xrel : 7 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7653x : 444 y : 409 xrel : 6 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7680x : 451 y : 407 xrel : 7 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7680x : 460 y : 403 xrel : 9 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7707x : 468 y : 398 xrel : 8 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7707x : 477 y : 390 xrel : 9 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7725x : 488 y : 377 xrel : 11 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7725x : 498 y : 356 xrel : 10 yrel : -21
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7764x : 508 y : 340 xrel : 10 yrel : -16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7764x : 514 y : 329 xrel : 6 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7774x : 517 y : 315 xrel : 3 yrel : -14
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7800x : 517 y : 313 xrel : 0 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7835x : 516 y : 312 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7835x : 515 y : 312 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7835x : 513 y : 311 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7863x : 509 y : 310 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7863x : 498 y : 302 xrel : -11 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7873x : 482 y : 299 xrel : -16 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7903x : 448 y : 299 xrel : -34 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7903x : 434 y : 301 xrel : -14 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7939x : 425 y : 308 xrel : -9 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7939x : 421 y : 311 xrel : -4 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7975x : 419 y : 313 xrel : -2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7975x : 418 y : 315 xrel : -1 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 7975x : 417 y : 317 xrel : -1 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 8003x : 416 y : 321 xrel : -1 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 8003x : 416 y : 322 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 8013x : 416 y : 323 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 8045x : 416 y : 325 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 8045x : 416 y : 326 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 8073x : 419 y : 331 xrel : 3 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+
+timestamp : 11343x : 420 y : 330 xrel : 1 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11356x : 420 y : 329 xrel : 0 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11426x : 421 y : 329 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11440x : 422 y : 329 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11455x : 423 y : 329 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11466x : 423 y : 330 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11535x : 424 y : 330 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11577x : 425 y : 330 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11603x : 425 y : 331 xrel : 0 yrel : 1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11674x : 432 y : 331 xrel : 7 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11688x : 435 y : 331 xrel : 3 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11700x : 437 y : 330 xrel : 2 yrel : -1
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11710x : 440 y : 330 xrel : 3 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11721x : 441 y : 330 xrel : 1 yrel : 0
+state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11899x : 441 y : 329 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 11923
+x : 441 y : 329
+state : 1, clicks : 1, button : 1
+padding1 : 1, type : 1025, which : 0, windowID : 2
+
+timestamp : 12430x : 439 y : 326 xrel : -2 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12454x : 439 y : 325 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12468x : 439 y : 323 xrel : 0 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12478x : 438 y : 321 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12501x : 437 y : 318 xrel : -1 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12501x : 432 y : 298 xrel : -5 yrel : -20
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12541x : 431 y : 296 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12541x : 424 y : 279 xrel : -7 yrel : -17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12571x : 422 y : 277 xrel : -2 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12571x : 422 y : 276 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12603x : 422 y : 275 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12603x : 421 y : 275 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12663x : 421 y : 274 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12677x : 420 y : 274 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12713x : 411 y : 258 xrel : -9 yrel : -16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12739x : 410 y : 257 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12774x : 409 y : 256 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12774x : 408 y : 254 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12774x : 404 y : 249 xrel : -4 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12802x : 401 y : 247 xrel : -3 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12802x : 398 y : 245 xrel : -3 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12837x : 394 y : 244 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12837x : 390 y : 243 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12875x : 388 y : 242 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12875x : 384 y : 241 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12875x : 382 y : 241 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12903x : 375 y : 241 xrel : -7 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12903x : 371 y : 241 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12914x : 367 y : 241 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12944x : 364 y : 241 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12944x : 361 y : 242 xrel : -3 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12955x : 359 y : 244 xrel : -2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12980x : 357 y : 246 xrel : -2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 12980x : 355 y : 249 xrel : -2 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13011x : 351 y : 254 xrel : -4 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13011x : 345 y : 265 xrel : -6 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13049x : 329 y : 285 xrel : -16 yrel : 20
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13049x : 327 y : 289 xrel : -2 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13049x : 325 y : 293 xrel : -2 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13077x : 323 y : 297 xrel : -2 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13077x : 323 y : 298 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13088x : 322 y : 308 xrel : -1 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13113x : 322 y : 320 xrel : 0 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13113x : 322 y : 335 xrel : 0 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13145x : 322 y : 346 xrel : 0 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13145x : 322 y : 352 xrel : 0 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13145x : 326 y : 365 xrel : 4 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13185x : 329 y : 371 xrel : 3 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13185x : 333 y : 376 xrel : 4 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13185x : 340 y : 386 xrel : 7 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13212x : 352 y : 401 xrel : 12 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13222x : 365 y : 412 xrel : 13 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13251x : 377 y : 421 xrel : 12 yrel : 9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13251x : 391 y : 427 xrel : 14 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13288x : 405 y : 432 xrel : 14 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13288x : 417 y : 434 xrel : 12 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13288x : 428 y : 434 xrel : 11 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13316x : 446 y : 429 xrel : 18 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13316x : 454 y : 425 xrel : 8 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13351x : 464 y : 418 xrel : 10 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13351x : 476 y : 407 xrel : 12 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13351x : 489 y : 390 xrel : 13 yrel : -17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13361x : 501 y : 377 xrel : 12 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13418x : 509 y : 369 xrel : 8 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13418x : 514 y : 365 xrel : 5 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13418x : 514 y : 364 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13418x : 514 y : 361 xrel : 0 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13452x : 514 y : 360 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13452x : 513 y : 358 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13486x : 509 y : 350 xrel : -4 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13486x : 507 y : 347 xrel : -2 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13486x : 507 y : 346 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13526x : 505 y : 345 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13526x : 503 y : 343 xrel : -2 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13536x : 490 y : 323 xrel : -13 yrel : -20
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13563x : 486 y : 322 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13563x : 485 y : 321 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13592x : 479 y : 313 xrel : -6 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13592x : 469 y : 309 xrel : -10 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13603x : 468 y : 308 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13629x : 467 y : 308 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13629x : 466 y : 308 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13693x : 440 y : 305 xrel : -26 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13705x : 433 y : 304 xrel : -7 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13738x : 429 y : 304 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13738x : 427 y : 304 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13766x : 426 y : 304 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13799x : 412 y : 305 xrel : -14 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13799x : 407 y : 306 xrel : -5 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13810x : 403 y : 307 xrel : -4 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13838x : 401 y : 307 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13848x : 399 y : 308 xrel : -2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13874x : 398 y : 308 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13874x : 396 y : 309 xrel : -2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13911x : 394 y : 310 xrel : -2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13911x : 392 y : 312 xrel : -2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13911x : 391 y : 313 xrel : -1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13955x : 391 y : 315 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13955x : 391 y : 318 xrel : 0 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13955x : 391 y : 328 xrel : 0 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13993x : 393 y : 342 xrel : 2 yrel : 14
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13993x : 393 y : 344 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 13993x : 396 y : 352 xrel : 3 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14023x : 398 y : 359 xrel : 2 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14023x : 402 y : 364 xrel : 4 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14052x : 407 y : 373 xrel : 5 yrel : 9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14052x : 426 y : 400 xrel : 19 yrel : 27
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14062x : 437 y : 412 xrel : 11 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14087x : 443 y : 417 xrel : 6 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14125x : 445 y : 418 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14125x : 448 y : 420 xrel : 3 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14125x : 453 y : 423 xrel : 5 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14155x : 461 y : 428 xrel : 8 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14155x : 487 y : 438 xrel : 26 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14212x : 495 y : 441 xrel : 8 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14212x : 500 y : 442 xrel : 5 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14212x : 501 y : 442 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14212x : 502 y : 442 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14248x : 503 y : 440 xrel : 1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14248x : 503 y : 439 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14248x : 503 y : 438 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14259x : 503 y : 437 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14916x : 500 y : 433 xrel : -3 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14926x : 486 y : 416 xrel : -14 yrel : -17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14936x : 482 y : 414 xrel : -4 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14947x : 473 y : 408 xrel : -9 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14986x : 468 y : 405 xrel : -5 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14986x : 467 y : 404 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 14986x : 464 y : 401 xrel : -3 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15018x : 457 y : 395 xrel : -7 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15018x : 439 y : 376 xrel : -18 yrel : -19
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15029x : 425 y : 359 xrel : -14 yrel : -17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15057x : 412 y : 349 xrel : -13 yrel : -10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15057x : 400 y : 342 xrel : -12 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15088x : 389 y : 334 xrel : -11 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15088x : 380 y : 326 xrel : -9 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15127x : 371 y : 319 xrel : -9 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15127x : 362 y : 310 xrel : -9 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15127x : 353 y : 297 xrel : -9 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15154x : 343 y : 284 xrel : -10 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15154x : 331 y : 276 xrel : -12 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15195x : 318 y : 269 xrel : -13 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15195x : 298 y : 259 xrel : -20 yrel : -10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15195x : 291 y : 256 xrel : -7 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15233x : 286 y : 254 xrel : -5 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15233x : 283 y : 253 xrel : -3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15233x : 281 y : 252 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15272x : 279 y : 252 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15272x : 277 y : 251 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15272x : 275 y : 251 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15302x : 274 y : 250 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15331x : 273 y : 250 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15331x : 273 y : 251 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15342x : 273 y : 252 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15367x : 271 y : 253 xrel : -2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15648x : 263 y : 248 xrel : -8 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15662x : 255 y : 242 xrel : -8 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15677x : 244 y : 236 xrel : -11 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15687x : 234 y : 230 xrel : -10 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15707x : 226 y : 228 xrel : -8 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15707x : 215 y : 227 xrel : -11 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15729x : 212 y : 226 xrel : -3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15759x : 208 y : 226 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15759x : 207 y : 225 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15794x : 206 y : 225 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15794x : 205 y : 225 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15832x : 199 y : 223 xrel : -6 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15904x : 199 y : 224 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15904x : 201 y : 224 xrel : 2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15915x : 203 y : 225 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15929x : 205 y : 227 xrel : 2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15950x : 220 y : 243 xrel : 15 yrel : 16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15977x : 233 y : 264 xrel : 13 yrel : 21
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 15977x : 248 y : 279 xrel : 15 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16011x : 262 y : 292 xrel : 14 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16011x : 279 y : 311 xrel : 17 yrel : 19
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16011x : 297 y : 338 xrel : 18 yrel : 27
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16051x : 312 y : 354 xrel : 15 yrel : 16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16051x : 340 y : 369 xrel : 28 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16051x : 362 y : 373 xrel : 22 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16089x : 391 y : 375 xrel : 29 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16089x : 418 y : 376 xrel : 27 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16117x : 440 y : 376 xrel : 22 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16117x : 459 y : 373 xrel : 19 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16128x : 479 y : 367 xrel : 20 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16161x : 510 y : 343 xrel : 31 yrel : -24
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16161x : 522 y : 319 xrel : 12 yrel : -24
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16196x : 533 y : 300 xrel : 11 yrel : -19
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16196x : 541 y : 284 xrel : 8 yrel : -16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16196x : 547 y : 269 xrel : 6 yrel : -15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16207x : 549 y : 260 xrel : 2 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16235x : 549 y : 255 xrel : 0 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16235x : 549 y : 253 xrel : 0 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16269x : 549 y : 252 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16269x : 548 y : 250 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16298x : 536 y : 215 xrel : -12 yrel : -35
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16298x : 508 y : 188 xrel : -28 yrel : -27
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16309x : 473 y : 161 xrel : -35 yrel : -27
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16338x : 431 y : 120 xrel : -42 yrel : -41
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16338x : 415 y : 117 xrel : -16 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16348x : 405 y : 117 xrel : -10 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16379x : 392 y : 118 xrel : -13 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16379x : 369 y : 124 xrel : -23 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16409x : 348 y : 135 xrel : -21 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16409x : 330 y : 152 xrel : -18 yrel : 17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16419x : 288 y : 182 xrel : -42 yrel : 30
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16443x : 271 y : 194 xrel : -17 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16443x : 261 y : 211 xrel : -10 yrel : 17
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16475x : 256 y : 234 xrel : -5 yrel : 23
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16475x : 254 y : 263 xrel : -2 yrel : 29
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16509x : 254 y : 279 xrel : 0 yrel : 16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16509x : 254 y : 291 xrel : 0 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16547x : 276 y : 321 xrel : 22 yrel : 30
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16547x : 299 y : 349 xrel : 23 yrel : 28
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16547x : 319 y : 371 xrel : 20 yrel : 22
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16575x : 343 y : 383 xrel : 24 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16575x : 369 y : 390 xrel : 26 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16585x : 396 y : 395 xrel : 27 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16615x : 418 y : 397 xrel : 22 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16615x : 435 y : 397 xrel : 17 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16626x : 463 y : 392 xrel : 28 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16651x : 477 y : 386 xrel : 14 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16651x : 488 y : 378 xrel : 11 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16681x : 497 y : 367 xrel : 9 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16681x : 502 y : 349 xrel : 5 yrel : -18
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16719x : 505 y : 336 xrel : 3 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16719x : 505 y : 331 xrel : 0 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16719x : 505 y : 329 xrel : 0 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16747x : 505 y : 328 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16747x : 504 y : 326 xrel : -1 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16758x : 489 y : 289 xrel : -15 yrel : -37
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16785x : 470 y : 251 xrel : -19 yrel : -38
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16785x : 458 y : 238 xrel : -12 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16817x : 449 y : 229 xrel : -9 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16817x : 445 y : 229 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16828x : 440 y : 228 xrel : -5 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16853x : 431 y : 228 xrel : -9 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16853x : 414 y : 229 xrel : -17 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16886x : 394 y : 234 xrel : -20 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16886x : 355 y : 248 xrel : -39 yrel : 14
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16897x : 337 y : 258 xrel : -18 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16948x : 323 y : 268 xrel : -14 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16948x : 319 y : 272 xrel : -4 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16948x : 319 y : 273 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16987x : 319 y : 275 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16987x : 314 y : 288 xrel : -5 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 16987x : 313 y : 298 xrel : -1 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17014x : 313 y : 309 xrel : 0 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17014x : 317 y : 325 xrel : 4 yrel : 16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17047x : 331 y : 350 xrel : 14 yrel : 25
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17047x : 345 y : 365 xrel : 14 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17047x : 357 y : 372 xrel : 12 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17083x : 379 y : 378 xrel : 22 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17083x : 391 y : 379 xrel : 12 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 17094x : 403 y : 379 xrel : 12 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
+timestamp : 17125x : 414 y : 377 xrel : 11 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 488 y : 253 xrel : 9 yrel : 0
-state : 0
+timestamp : 17125x : 422 y : 374 xrel : 8 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 522 y : 257 xrel : 34 yrel : 4
-state : 0
+timestamp : 17153x : 429 y : 370 xrel : 7 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 613 y : 276 xrel : 91 yrel : 19
-state : 0
+timestamp : 17153x : 436 y : 359 xrel : 7 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 698 y : 289 xrel : 85 yrel : 13
-state : 0
+timestamp : 17163x : 459 y : 306 xrel : 23 yrel : -53
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 751 y : 310 xrel : 53 yrel : 21
-state : 0
+timestamp : 17189x : 468 y : 286 xrel : 9 yrel : -20
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 784 y : 319 xrel : 33 yrel : 9
-state : 0
+timestamp : 17189x : 472 y : 271 xrel : 4 yrel : -15
+state : 1
+type : 1024, which : 0, windowID : 2
 
+timestamp : 17224x : 473 y : 264 xrel : 1 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 811 y : 319 xrel : 27 yrel : 0
-state : 0
+timestamp : 17224x : 473 y : 261 xrel : 0 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 824 y : 319 xrel : 13 yrel : 0
-state : 0
+timestamp : 17254x : 473 y : 258 xrel : 0 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 839 y : 317 xrel : 15 yrel : -2
-state : 0
+timestamp : 17254x : 472 y : 257 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 834 y : 317 xrel : -5 yrel : 0
-state : 0
+timestamp : 17316x : 457 y : 234 xrel : -15 yrel : -23
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 827 y : 318 xrel : -7 yrel : 1
-state : 0
+timestamp : 17316x : 440 y : 223 xrel : -17 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 819 y : 318 xrel : -8 yrel : 0
-state : 0
+timestamp : 17316x : 423 y : 214 xrel : -17 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 814 y : 317 xrel : -5 yrel : -1
-state : 0
+timestamp : 17316x : 399 y : 205 xrel : -24 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 808 y : 317 xrel : -6 yrel : 0
-state : 0
+timestamp : 17316x : 382 y : 199 xrel : -17 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 800 y : 317 xrel : -8 yrel : 0
-state : 0
+timestamp : 17343x : 373 y : 197 xrel : -9 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 790 y : 317 xrel : -10 yrel : 0
-state : 0
+timestamp : 17343x : 360 y : 196 xrel : -13 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 781 y : 321 xrel : -9 yrel : 4
-state : 0
+timestamp : 17354x : 356 y : 196 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 770 y : 324 xrel : -11 yrel : 3
-state : 0
+timestamp : 17384x : 354 y : 196 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 758 y : 326 xrel : -12 yrel : 2
-state : 0
+timestamp : 17384x : 352 y : 197 xrel : -2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 745 y : 327 xrel : -13 yrel : 1
-state : 0
+timestamp : 17419x : 352 y : 198 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 732 y : 329 xrel : -13 yrel : 2
-state : 0
+timestamp : 17429x : 352 y : 199 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 716 y : 330 xrel : -16 yrel : 1
-state : 0
+timestamp : 17457x : 352 y : 200 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 698 y : 333 xrel : -18 yrel : 3
-state : 0
+timestamp : 17457x : 352 y : 204 xrel : 0 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 681 y : 335 xrel : -17 yrel : 2
-state : 0
+timestamp : 17493x : 352 y : 207 xrel : 0 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 662 y : 336 xrel : -19 yrel : 1
-state : 0
+timestamp : 17493x : 352 y : 211 xrel : 0 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 338 xrel : -22 yrel : 2
-state : 0
+timestamp : 17524x : 352 y : 213 xrel : 0 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 617 y : 338 xrel : -23 yrel : 0
-state : 0
+timestamp : 17525x : 352 y : 225 xrel : 0 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 596 y : 338 xrel : -21 yrel : 0
-state : 0
+timestamp : 17525x : 353 y : 230 xrel : 1 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 580 y : 338 xrel : -16 yrel : 0
-state : 0
+timestamp : 17553x : 354 y : 233 xrel : 1 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 566 y : 338 xrel : -14 yrel : 0
-state : 0
+timestamp : 17553x : 356 y : 237 xrel : 2 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 556 y : 338 xrel : -10 yrel : 0
-state : 0
+timestamp : 17621x : 357 y : 237 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 555 y : 338 xrel : -1 yrel : 0
-state : 0
+timestamp : 17621x : 357 y : 238 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 784 y : 319 xrel : 229 yrel : -19
-state : 0
+timestamp : 17621x : 363 y : 244 xrel : 6 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
 
+timestamp : 17645x : 367 y : 248 xrel : 4 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
+timestamp : 17656x : 373 y : 253 xrel : 6 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
 
+timestamp : 17666x : 380 y : 258 xrel : 7 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -144 yrel : 41
-state : 0
+timestamp : 17691x : 387 y : 262 xrel : 7 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 638 y : 360 xrel : -2 yrel : 0
-state : 0
+timestamp : 17691x : 393 y : 265 xrel : 6 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 2 yrel : 0
-state : 0
+timestamp : 17732x : 396 y : 266 xrel : 3 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 636 y : 360 xrel : -4 yrel : 0
-state : 0
+timestamp : 17732x : 397 y : 266 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 630 y : 360 xrel : -6 yrel : 0
-state : 0
+timestamp : 17763x : 397 y : 264 xrel : 0 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 10 yrel : 0
-state : 0
+timestamp : 17792x : 398 y : 263 xrel : 1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 628 y : 360 xrel : -12 yrel : 0
-state : 0
+timestamp : 17831x : 400 y : 260 xrel : 2 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 615 y : 360 xrel : -13 yrel : 0
-state : 0
+timestamp : 17831x : 407 y : 256 xrel : 7 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 600 y : 360 xrel : -15 yrel : 0
-state : 0
+timestamp : 17859x : 411 y : 255 xrel : 4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 40 yrel : 0
-state : 0
+timestamp : 17859x : 416 y : 254 xrel : 5 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 601 y : 360 xrel : -39 yrel : 0
-state : 0
+timestamp : 17869x : 419 y : 252 xrel : 3 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 574 y : 360 xrel : -27 yrel : 0
-state : 0
+timestamp : 17893x : 423 y : 250 xrel : 4 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 66 yrel : 0
-state : 0
+timestamp : 17893x : 426 y : 248 xrel : 3 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 617 y : 358 xrel : -23 yrel : -2
-state : 0
+timestamp : 17928x : 430 y : 245 xrel : 4 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 594 y : 355 xrel : -23 yrel : -3
-state : 0
+timestamp : 17928x : 438 y : 227 xrel : 8 yrel : -18
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 575 y : 355 xrel : -19 yrel : 0
-state : 0
+timestamp : 17928x : 440 y : 200 xrel : 2 yrel : -27
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 65 yrel : 5
-state : 0
+timestamp : 17964x : 440 y : 169 xrel : 0 yrel : -31
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 625 y : 360 xrel : -15 yrel : 0
-state : 0
+timestamp : 17964x : 429 y : 139 xrel : -11 yrel : -30
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 15 yrel : 0
-state : 0
+timestamp : 17994x : 408 y : 111 xrel : -21 yrel : -28
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 638 y : 358 xrel : -2 yrel : -2
-state : 0
+timestamp : 17994x : 383 y : 85 xrel : -25 yrel : -26
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 2 yrel : 2
-state : 0
+timestamp : 17994x : 354 y : 65 xrel : -29 yrel : -20
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 357 xrel : -1 yrel : -3
-state : 0
+timestamp : 18031x : 326 y : 52 xrel : -28 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 636 y : 353 xrel : -3 yrel : -4
-state : 0
+timestamp : 18031x : 289 y : 43 xrel : -37 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 636 y : 351 xrel : 0 yrel : -2
-state : 0
+timestamp : 18065x : 259 y : 36 xrel : -30 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 4 yrel : 9
-state : 0
+timestamp : 18065x : 236 y : 33 xrel : -23 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
-state : 0
+timestamp : 18065x : 202 y : 33 xrel : -34 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
-state : 0
+timestamp : 18076x : 187 y : 37 xrel : -15 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 365 xrel : -1 yrel : 5
-state : 0
+timestamp : 18101x : 172 y : 42 xrel : -15 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 370 xrel : -2 yrel : 5
-state : 0
+timestamp : 18101x : 160 y : 49 xrel : -12 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 3 yrel : -10
-state : 0
+timestamp : 18136x : 151 y : 58 xrel : -9 yrel : 9
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 641 y : 368 xrel : 1 yrel : 8
-state : 0
+timestamp : 18136x : 144 y : 73 xrel : -7 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 644 y : 368 xrel : 3 yrel : 0
-state : 0
+timestamp : 18175x : 139 y : 91 xrel : -5 yrel : 18
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 647 y : 368 xrel : 3 yrel : 0
-state : 0
+timestamp : 18175x : 135 y : 105 xrel : -4 yrel : 14
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 647 y : 367 xrel : 0 yrel : -1
-state : 0
+timestamp : 18175x : 133 y : 116 xrel : -2 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -7 yrel : -7
-state : 0
+timestamp : 18203x : 132 y : 128 xrel : -1 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18203x : 131 y : 148 xrel : -1 yrel : 20
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 2
-state : 0
+timestamp : 18243x : 131 y : 183 xrel : 0 yrel : 35
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18243x : 141 y : 224 xrel : 10 yrel : 41
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 356 xrel : 0 yrel : -2
-state : 0
+timestamp : 18243x : 153 y : 243 xrel : 12 yrel : 19
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 4
-state : 0
+timestamp : 18278x : 170 y : 266 xrel : 17 yrel : 23
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18278x : 188 y : 290 xrel : 18 yrel : 24
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 641 y : 357 xrel : 1 yrel : -1
-state : 0
+timestamp : 18278x : 212 y : 304 xrel : 24 yrel : 14
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -1 yrel : 3
-state : 0
+timestamp : 18289x : 231 y : 315 xrel : 19 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 642 y : 358 xrel : 2 yrel : -2
-state : 0
+timestamp : 18314x : 248 y : 323 xrel : 17 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -2 yrel : 2
-state : 0
+timestamp : 18314x : 265 y : 329 xrel : 17 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
-state : 0
+timestamp : 18354x : 283 y : 336 xrel : 18 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
-state : 0
+timestamp : 18354x : 318 y : 344 xrel : 35 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18388x : 330 y : 344 xrel : 12 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 2
-state : 0
+timestamp : 18388x : 335 y : 344 xrel : 5 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
-state : 0
+timestamp : 18388x : 338 y : 342 xrel : 3 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
-state : 0
+timestamp : 18416x : 340 y : 339 xrel : 2 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18416x : 343 y : 335 xrel : 3 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 2
-state : 0
+timestamp : 18456x : 345 y : 330 xrel : 2 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
-state : 0
+timestamp : 18456x : 348 y : 317 xrel : 3 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 357 xrel : 0 yrel : -2
-state : 0
+timestamp : 18456x : 348 y : 314 xrel : 0 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 356 xrel : 0 yrel : -1
-state : 0
+timestamp : 18498x : 348 y : 311 xrel : 0 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 4
-state : 0
+timestamp : 18498x : 348 y : 310 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18498x : 348 y : 308 xrel : 0 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 357 xrel : 0 yrel : -1
-state : 0
+timestamp : 18534x : 346 y : 300 xrel : -2 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 3
-state : 0
+timestamp : 18534x : 336 y : 275 xrel : -10 yrel : -25
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18568x : 296 y : 219 xrel : -40 yrel : -56
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 357 xrel : 0 yrel : -1
-state : 0
+timestamp : 18568x : 274 y : 209 xrel : -22 yrel : -10
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 3
-state : 0
+timestamp : 18568x : 267 y : 207 xrel : -7 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18602x : 261 y : 206 xrel : -6 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 2
-state : 0
+timestamp : 18602x : 257 y : 206 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
-state : 0
+timestamp : 18613x : 253 y : 206 xrel : -4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
-state : 0
+timestamp : 18640x : 247 y : 208 xrel : -6 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 358 xrel : 0 yrel : -2
-state : 0
+timestamp : 18640x : 216 y : 239 xrel : -31 yrel : 31
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 2
-state : 0
+timestamp : 18672x : 192 y : 258 xrel : -24 yrel : 19
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 359 xrel : -1 yrel : -1
-state : 0
+timestamp : 18672x : 179 y : 272 xrel : -13 yrel : 14
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 1 yrel : 1
-state : 0
+timestamp : 18683x : 174 y : 281 xrel : -5 yrel : 9
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 359 xrel : -1 yrel : -1
-state : 0
+timestamp : 18709x : 174 y : 286 xrel : 0 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 1 yrel : 1
-state : 0
+timestamp : 18709x : 171 y : 311 xrel : -3 yrel : 25
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 359 xrel : -1 yrel : -1
-state : 0
+timestamp : 18720x : 171 y : 345 xrel : 0 yrel : 34
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 1 yrel : 1
-state : 0
+timestamp : 18746x : 171 y : 353 xrel : 0 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18785x : 172 y : 361 xrel : 1 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18785x : 176 y : 374 xrel : 4 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18785x : 181 y : 383 xrel : 5 yrel : 9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18812x : 188 y : 398 xrel : 7 yrel : 15
+state : 1
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
+timestamp : 18812x : 196 y : 411 xrel : 8 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18823x : 198 y : 413 xrel : 2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18859x : 199 y : 413 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 18921x : 214 y : 413 xrel : 15 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+
+timestamp : 18921x : 221 y : 412 xrel : 7 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
+timestamp : 21847x : 227 y : 424 xrel : 6 yrel : 12
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
+timestamp : 21862x : 260 y : 466 xrel : 33 yrel : 42
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
+timestamp : 21872x : 283 y : 526 xrel : 23 yrel : 60
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 359 xrel : 0 yrel : -1
+timestamp : 21893x : 316 y : 563 xrel : 33 yrel : 37
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
+timestamp : 21918x : 388 y : 599 xrel : 72 yrel : 37
 state : 0
+type : 1024, which : 0, windowID : 2
+
 
-x : 640 y : 359 xrel : 0 yrel : -1
+
+timestamp : 22103x : 689 y : 593 xrel : 301 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 1
+timestamp : 22116x : 689 y : 531 xrel : 0 yrel : -62
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 358 xrel : -1 yrel : -2
+timestamp : 22126x : 688 y : 482 xrel : -1 yrel : -49
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 356 xrel : -2 yrel : -2
+timestamp : 22137x : 646 y : 368 xrel : -42 yrel : -114
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 634 y : 354 xrel : -3 yrel : -2
+timestamp : 22173x : 610 y : 330 xrel : -36 yrel : -38
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 6 yrel : 6
+timestamp : 22173x : 588 y : 266 xrel : -22 yrel : -64
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 636 y : 359 xrel : -4 yrel : -1
+timestamp : 22183x : 574 y : 236 xrel : -14 yrel : -30
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 634 y : 359 xrel : -2 yrel : 0
+timestamp : 22207x : 560 y : 214 xrel : -14 yrel : -22
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 633 y : 359 xrel : -1 yrel : 0
+timestamp : 22207x : 547 y : 192 xrel : -13 yrel : -22
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 7 yrel : 1
+timestamp : 22241x : 533 y : 166 xrel : -14 yrel : -26
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 638 y : 360 xrel : -2 yrel : 0
+timestamp : 22241x : 486 y : 147 xrel : -47 yrel : -19
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 2 yrel : 0
+timestamp : 22252x : 468 y : 147 xrel : -18 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 639 y : 360 xrel : -1 yrel : 0
+timestamp : 22283x : 459 y : 155 xrel : -9 yrel : 8
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 1 yrel : 0
+timestamp : 22283x : 454 y : 164 xrel : -5 yrel : 9
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 638 y : 361 xrel : -2 yrel : 1
+timestamp : 22315x : 449 y : 176 xrel : -5 yrel : 12
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 635 y : 362 xrel : -3 yrel : 1
+timestamp : 22315x : 446 y : 187 xrel : -3 yrel : 11
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 632 y : 364 xrel : -3 yrel : 2
+timestamp : 22344x : 443 y : 195 xrel : -3 yrel : 8
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 8 yrel : -4
+timestamp : 22344x : 437 y : 223 xrel : -6 yrel : 28
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 636 y : 362 xrel : -4 yrel : 2
+timestamp : 22344x : 435 y : 260 xrel : -2 yrel : 37
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 629 y : 367 xrel : -7 yrel : 5
+timestamp : 22379x : 435 y : 287 xrel : 0 yrel : 27
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 621 y : 372 xrel : -8 yrel : 5
+timestamp : 22379x : 435 y : 302 xrel : 0 yrel : 15
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 19 yrel : -12
+timestamp : 22407x : 435 y : 320 xrel : 0 yrel : 18
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 634 y : 367 xrel : -6 yrel : 7
+timestamp : 22407x : 438 y : 347 xrel : 3 yrel : 27
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 627 y : 375 xrel : -7 yrel : 8
+timestamp : 22424x : 449 y : 392 xrel : 11 yrel : 45
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 621 y : 383 xrel : -6 yrel : 8
+timestamp : 22471x : 455 y : 402 xrel : 6 yrel : 10
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 19 yrel : -23
+timestamp : 22471x : 458 y : 406 xrel : 3 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 371 xrel : 0 yrel : 11
+timestamp : 22471x : 459 y : 408 xrel : 1 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 383 xrel : -3 yrel : 12
+timestamp : 22471x : 460 y : 410 xrel : 1 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 398 xrel : 0 yrel : 15
+timestamp : 22514x : 460 y : 411 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 3 yrel : -38
+timestamp : 22514x : 460 y : 413 xrel : 0 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 641 y : 382 xrel : 1 yrel : 22
+timestamp : 22514x : 457 y : 419 xrel : -3 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -1 yrel : -22
+timestamp : 22541x : 455 y : 422 xrel : -2 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 651 y : 381 xrel : 11 yrel : 21
+timestamp : 22541x : 454 y : 423 xrel : -1 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 666 y : 406 xrel : 15 yrel : 25
+timestamp : 22577x : 453 y : 423 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 685 y : 431 xrel : 19 yrel : 25
+timestamp : 22577x : 452 y : 419 xrel : -1 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -45 yrel : -71
+timestamp : 22870x : 448 y : 415 xrel : -4 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 657 y : 385 xrel : 17 yrel : 25
+timestamp : 22884x : 441 y : 411 xrel : -7 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 674 y : 408 xrel : 17 yrel : 23
+timestamp : 22894x : 422 y : 405 xrel : -19 yrel : -6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 699 y : 437 xrel : 25 yrel : 29
+timestamp : 22904x : 383 y : 394 xrel : -39 yrel : -11
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -59 yrel : -77
+timestamp : 22940x : 364 y : 388 xrel : -19 yrel : -6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 651 y : 367 xrel : 11 yrel : 7
+timestamp : 22940x : 343 y : 384 xrel : -21 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 670 y : 390 xrel : 19 yrel : 23
+timestamp : 22975x : 312 y : 379 xrel : -31 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 697 y : 413 xrel : 27 yrel : 23
+timestamp : 22975x : 286 y : 375 xrel : -26 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -57 yrel : -53
+timestamp : 22975x : 264 y : 371 xrel : -22 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 659 y : 375 xrel : 19 yrel : 15
+timestamp : 22985x : 244 y : 366 xrel : -20 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -19 yrel : -15
+timestamp : 23009x : 222 y : 363 xrel : -22 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 663 y : 377 xrel : 23 yrel : 17
+timestamp : 23009x : 206 y : 362 xrel : -16 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 686 y : 394 xrel : 23 yrel : 17
+timestamp : 23047x : 198 y : 362 xrel : -8 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 709 y : 401 xrel : 23 yrel : 7
+timestamp : 23047x : 190 y : 362 xrel : -8 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -69 yrel : -41
+timestamp : 23079x : 177 y : 363 xrel : -13 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 665 y : 360 xrel : 25 yrel : 0
+timestamp : 23079x : 173 y : 364 xrel : -4 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 688 y : 360 xrel : 23 yrel : 0
+timestamp : 23079x : 170 y : 365 xrel : -3 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 709 y : 351 xrel : 21 yrel : -9
+timestamp : 23107x : 168 y : 366 xrel : -2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -69 yrel : 9
+timestamp : 23177x : 168 y : 367 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 661 y : 343 xrel : 21 yrel : -17
+timestamp : 23223x : 170 y : 370 xrel : 2 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 684 y : 324 xrel : 23 yrel : -19
+timestamp : 23599x : 174 y : 373 xrel : 4 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 705 y : 295 xrel : 21 yrel : -29
+timestamp : 23613x : 177 y : 376 xrel : 3 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -65 yrel : 65
+timestamp : 23623x : 181 y : 379 xrel : 4 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 661 y : 329 xrel : 21 yrel : -31
+timestamp : 23634x : 185 y : 381 xrel : 4 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 678 y : 294 xrel : 17 yrel : -35
+timestamp : 23669x : 195 y : 386 xrel : 10 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -38 yrel : 66
+timestamp : 23669x : 203 y : 389 xrel : 8 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 651 y : 325 xrel : 11 yrel : -35
+timestamp : 23680x : 211 y : 392 xrel : 8 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 662 y : 288 xrel : 11 yrel : -37
+timestamp : 23706x : 220 y : 396 xrel : 9 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -22 yrel : 72
+timestamp : 23706x : 227 y : 402 xrel : 7 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 647 y : 329 xrel : 7 yrel : -31
+timestamp : 23716x : 233 y : 407 xrel : 6 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 654 y : 288 xrel : 7 yrel : -41
+timestamp : 23744x : 238 y : 411 xrel : 5 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 659 y : 247 xrel : 5 yrel : -41
+timestamp : 23744x : 242 y : 414 xrel : 4 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -19 yrel : 113
+timestamp : 23777x : 245 y : 416 xrel : 3 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 642 y : 319 xrel : 2 yrel : -41
+timestamp : 23777x : 247 y : 417 xrel : 2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 642 y : 288 xrel : 0 yrel : -31
+timestamp : 23814x : 249 y : 418 xrel : 2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -2 yrel : 72
+timestamp : 23814x : 252 y : 419 xrel : 3 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 345 xrel : -3 yrel : -15
+timestamp : 23814x : 254 y : 420 xrel : 2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 634 y : 334 xrel : -3 yrel : -11
+timestamp : 23841x : 255 y : 420 xrel : 1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 6 yrel : 26
+timestamp : 23841x : 256 y : 420 xrel : 1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 625 y : 337 xrel : -15 yrel : -23
+timestamp : 23918x : 256 y : 421 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 608 y : 316 xrel : -17 yrel : -21
+timestamp : 23942x : 256 y : 422 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 587 y : 293 xrel : -21 yrel : -23
+timestamp : 23988x : 256 y : 423 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 53 yrel : 67
+timestamp : 23988x : 256 y : 424 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 623 y : 349 xrel : -17 yrel : -11
+timestamp : 24001x : 255 y : 425 xrel : -1 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 606 y : 336 xrel : -17 yrel : -13
+timestamp : 24012x : 254 y : 427 xrel : -1 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 583 y : 323 xrel : -23 yrel : -13
+timestamp : 24022x : 254 y : 429 xrel : 0 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 57 yrel : 37
+timestamp : 24057x : 254 y : 433 xrel : 0 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 617 y : 349 xrel : -23 yrel : -11
+timestamp : 24057x : 256 y : 454 xrel : 2 yrel : 21
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 594 y : 342 xrel : -23 yrel : -7
+timestamp : 24067x : 263 y : 472 xrel : 7 yrel : 18
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 573 y : 340 xrel : -21 yrel : -2
+timestamp : 24092x : 269 y : 482 xrel : 6 yrel : 10
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 67 yrel : 20
+timestamp : 24092x : 273 y : 487 xrel : 4 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 633 y : 362 xrel : -7 yrel : 2
+timestamp : 24125x : 278 y : 492 xrel : 5 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 614 y : 385 xrel : -19 yrel : 23
+timestamp : 24125x : 282 y : 496 xrel : 4 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 589 y : 418 xrel : -25 yrel : 33
+timestamp : 24136x : 286 y : 498 xrel : 4 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 51 yrel : -58
+timestamp : 24161x : 289 y : 500 xrel : 3 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 615 y : 399 xrel : -25 yrel : 39
+timestamp : 24161x : 291 y : 501 xrel : 2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 596 y : 434 xrel : -19 yrel : 35
+timestamp : 24172x : 294 y : 502 xrel : 3 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 44 yrel : -74
+timestamp : 24196x : 297 y : 502 xrel : 3 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 365 xrel : 0 yrel : 5
+timestamp : 24196x : 301 y : 503 xrel : 4 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 629 y : 400 xrel : -11 yrel : 35
+timestamp : 24228x : 309 y : 502 xrel : 8 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 624 y : 435 xrel : -5 yrel : 35
+timestamp : 24228x : 313 y : 501 xrel : 4 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 16 yrel : -75
+timestamp : 24263x : 318 y : 500 xrel : 5 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 638 y : 397 xrel : -2 yrel : 37
+timestamp : 24263x : 322 y : 499 xrel : 4 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 638 y : 436 xrel : 0 yrel : 39
+timestamp : 24263x : 327 y : 498 xrel : 5 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 2 yrel : -76
+timestamp : 24298x : 332 y : 497 xrel : 5 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 643 y : 403 xrel : 3 yrel : 43
+timestamp : 24298x : 336 y : 495 xrel : 4 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 658 y : 444 xrel : 15 yrel : 41
+timestamp : 24332x : 339 y : 494 xrel : 3 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 677 y : 481 xrel : 19 yrel : 37
+timestamp : 24332x : 341 y : 493 xrel : 2 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -37 yrel : -121
+timestamp : 24332x : 344 y : 490 xrel : 3 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 667 y : 391 xrel : 27 yrel : 31
+timestamp : 24343x : 345 y : 488 xrel : 1 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 702 y : 418 xrel : 35 yrel : 27
+timestamp : 24368x : 346 y : 486 xrel : 1 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 739 y : 437 xrel : 37 yrel : 19
+timestamp : 24368x : 347 y : 484 xrel : 1 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -99 yrel : -77
+timestamp : 24403x : 348 y : 480 xrel : 1 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 669 y : 371 xrel : 29 yrel : 11
+timestamp : 24403x : 349 y : 477 xrel : 1 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 700 y : 378 xrel : 31 yrel : 7
+timestamp : 24440x : 350 y : 473 xrel : 1 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -60 yrel : -18
+timestamp : 24440x : 350 y : 470 xrel : 0 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 685 y : 358 xrel : 45 yrel : -2
+timestamp : 24440x : 350 y : 468 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 722 y : 349 xrel : 37 yrel : -9
+timestamp : 24468x : 350 y : 466 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -82 yrel : 11
+timestamp : 24468x : 350 y : 464 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 687 y : 347 xrel : 47 yrel : -13
+timestamp : 24479x : 350 y : 462 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 736 y : 320 xrel : 49 yrel : -27
+timestamp : 24509x : 350 y : 461 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 777 y : 295 xrel : 41 yrel : -25
+timestamp : 24519x : 350 y : 460 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -137 yrel : 65
+timestamp : 24549x : 350 y : 458 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 671 y : 335 xrel : 31 yrel : -25
+timestamp : 24549x : 348 y : 457 xrel : -2 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 690 y : 312 xrel : 19 yrel : -23
+timestamp : 24560x : 346 y : 455 xrel : -2 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 703 y : 297 xrel : 13 yrel : -15
+timestamp : 24584x : 343 y : 453 xrel : -3 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -63 yrel : 63
+timestamp : 24584x : 340 y : 449 xrel : -3 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 649 y : 321 xrel : 9 yrel : -39
+timestamp : 24618x : 336 y : 444 xrel : -4 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 654 y : 314 xrel : 5 yrel : -7
+timestamp : 24618x : 314 y : 425 xrel : -22 yrel : -19
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -14 yrel : 46
+timestamp : 24629x : 297 y : 414 xrel : -17 yrel : -11
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 343 xrel : 0 yrel : -17
+timestamp : 24654x : 283 y : 407 xrel : -14 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 312 xrel : 0 yrel : -31
+timestamp : 24654x : 272 y : 402 xrel : -11 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 279 xrel : 0 yrel : -33
+timestamp : 24704x : 263 y : 398 xrel : -9 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 81
+timestamp : 24704x : 250 y : 392 xrel : -13 yrel : -6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 329 xrel : 0 yrel : -31
+timestamp : 24704x : 212 y : 380 xrel : -38 yrel : -12
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 629 y : 304 xrel : -11 yrel : -25
+timestamp : 24749x : 199 y : 375 xrel : -13 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 629 y : 302 xrel : 0 yrel : -2
+timestamp : 24749x : 191 y : 371 xrel : -8 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 604 y : 263 xrel : -25 yrel : -39
+timestamp : 24749x : 185 y : 369 xrel : -6 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 36 yrel : 97
+timestamp : 24759x : 180 y : 368 xrel : -5 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 615 y : 323 xrel : -25 yrel : -37
+timestamp : 24787x : 176 y : 368 xrel : -4 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 598 y : 290 xrel : -17 yrel : -33
+timestamp : 24787x : 168 y : 368 xrel : -8 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 573 y : 257 xrel : -25 yrel : -33
+timestamp : 24819x : 148 y : 375 xrel : -20 yrel : 7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 67 yrel : 103
+timestamp : 24819x : 142 y : 378 xrel : -6 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 627 y : 345 xrel : -13 yrel : -15
+timestamp : 24830x : 139 y : 381 xrel : -3 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 13 yrel : 15
+timestamp : 24855x : 137 y : 384 xrel : -2 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 635 y : 355 xrel : -5 yrel : -5
+timestamp : 24855x : 136 y : 386 xrel : -1 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 5 yrel : 5
+timestamp : 24890x : 135 y : 387 xrel : -1 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 618 y : 342 xrel : -22 yrel : -18
+timestamp : 24890x : 134 y : 389 xrel : -1 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 22 yrel : 18
+timestamp : 24890x : 134 y : 390 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 615 y : 339 xrel : -25 yrel : -21
+timestamp : 24927x : 134 y : 394 xrel : 0 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 592 y : 324 xrel : -23 yrel : -15
+timestamp : 24927x : 134 y : 395 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 567 y : 311 xrel : -25 yrel : -13
+timestamp : 24960x : 134 y : 398 xrel : 0 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 73 yrel : 49
+timestamp : 24960x : 135 y : 401 xrel : 1 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 615 y : 347 xrel : -25 yrel : -13
+timestamp : 24960x : 136 y : 405 xrel : 1 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 590 y : 340 xrel : -25 yrel : -7
+timestamp : 24994x : 138 y : 411 xrel : 2 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 561 y : 335 xrel : -29 yrel : -5
+timestamp : 24994x : 140 y : 417 xrel : 2 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 79 yrel : 25
+timestamp : 25004x : 149 y : 425 xrel : 9 yrel : 8
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 611 y : 360 xrel : -29 yrel : 0
+timestamp : 25030x : 155 y : 428 xrel : 6 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 578 y : 362 xrel : -33 yrel : 2
+timestamp : 25030x : 161 y : 430 xrel : 6 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 545 y : 381 xrel : -33 yrel : 19
+timestamp : 25063x : 168 y : 432 xrel : 7 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 95 yrel : -21
+timestamp : 25063x : 172 y : 434 xrel : 4 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 607 y : 393 xrel : -33 yrel : 33
+timestamp : 25074x : 175 y : 436 xrel : 3 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 33 yrel : -33
+timestamp : 25099x : 176 y : 436 xrel : 1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 607 y : 393 xrel : -33 yrel : 33
+timestamp : 25099x : 179 y : 436 xrel : 3 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 576 y : 428 xrel : -31 yrel : 35
+timestamp : 25133x : 181 y : 436 xrel : 2 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 551 y : 475 xrel : -25 yrel : 47
+timestamp : 25133x : 182 y : 436 xrel : 1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 89 yrel : -115
+timestamp : 25171x : 184 y : 435 xrel : 2 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 615 y : 415 xrel : -25 yrel : 55
+timestamp : 25171x : 186 y : 435 xrel : 2 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 596 y : 470 xrel : -19 yrel : 55
+timestamp : 25171x : 190 y : 434 xrel : 4 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 577 y : 527 xrel : -19 yrel : 57
+timestamp : 25199x : 193 y : 433 xrel : 3 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 63 yrel : -167
+timestamp : 25199x : 204 y : 431 xrel : 11 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 627 y : 417 xrel : -13 yrel : 57
+timestamp : 25209x : 213 y : 429 xrel : 9 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 620 y : 436 xrel : -7 yrel : 19
+timestamp : 25234x : 219 y : 427 xrel : 6 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 620 y : 481 xrel : 0 yrel : 45
+timestamp : 25269x : 223 y : 424 xrel : 4 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 20 yrel : -121
+timestamp : 25269x : 227 y : 420 xrel : 4 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 373 xrel : -3 yrel : 13
+timestamp : 25269x : 229 y : 414 xrel : 2 yrel : -6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 3 yrel : -13
+timestamp : 25297x : 231 y : 407 xrel : 2 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 644 y : 372 xrel : 4 yrel : 12
+timestamp : 25297x : 233 y : 398 xrel : 2 yrel : -9
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -4 yrel : -12
+timestamp : 25338x : 233 y : 394 xrel : 0 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 652 y : 394 xrel : 12 yrel : 34
+timestamp : 25338x : 233 y : 392 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -12 yrel : -34
+timestamp : 25338x : 228 y : 390 xrel : -5 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 669 y : 395 xrel : 29 yrel : 35
+timestamp : 25349x : 218 y : 387 xrel : -10 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 700 y : 426 xrel : 31 yrel : 31
+timestamp : 25375x : 201 y : 383 xrel : -17 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 733 y : 445 xrel : 33 yrel : 19
+timestamp : 25408x : 188 y : 379 xrel : -13 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -93 yrel : -85
+timestamp : 25408x : 173 y : 373 xrel : -15 yrel : -6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 651 y : 369 xrel : 11 yrel : 9
+timestamp : 25408x : 170 y : 372 xrel : -3 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 27530
+x : 170 y : 372
+state : 1, clicks : 1, button : 1
+padding1 : 1, type : 1025, which : 0, windowID : 2
 
-x : 676 y : 374 xrel : 25 yrel : 5
+
+timestamp : 28257x : 181 y : 372 xrel : 11 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 687 y : 374 xrel : 11 yrel : 0
+timestamp : 28270x : 199 y : 372 xrel : 18 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -47 yrel : -14
+timestamp : 28291x : 256 y : 377 xrel : 57 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 683 y : 353 xrel : 43 yrel : -7
+timestamp : 28301x : 300 y : 384 xrel : 44 yrel : 7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 706 y : 342 xrel : 23 yrel : -11
+timestamp : 28327x : 404 y : 394 xrel : 104 yrel : 10
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -66 yrel : 18
+timestamp : 28327x : 438 y : 398 xrel : 34 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 661 y : 333 xrel : 21 yrel : -27
+timestamp : 28367x : 462 y : 401 xrel : 24 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 684 y : 302 xrel : 23 yrel : -31
+timestamp : 28367x : 483 y : 402 xrel : 21 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 715 y : 257 xrel : 31 yrel : -45
+timestamp : 28400x : 515 y : 403 xrel : 32 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 746 y : 202 xrel : 31 yrel : -55
+timestamp : 28400x : 542 y : 404 xrel : 27 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -106 yrel : 158
+timestamp : 28400x : 559 y : 404 xrel : 17 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 661 y : 325 xrel : 21 yrel : -35
+timestamp : 28429x : 597 y : 404 xrel : 38 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 674 y : 288 xrel : 13 yrel : -37
+timestamp : 28429x : 625 y : 402 xrel : 28 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 685 y : 229 xrel : 11 yrel : -59
+timestamp : 28439x : 644 y : 401 xrel : 19 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -45 yrel : 131
+timestamp : 28465x : 654 y : 400 xrel : 10 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 297 xrel : 0 yrel : -63
+timestamp : 28465x : 660 y : 399 xrel : 6 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : 63
+timestamp : 28496x : 665 y : 399 xrel : 5 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 289 xrel : 0 yrel : -71
+timestamp : 28496x : 669 y : 397 xrel : 4 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 633 y : 220 xrel : -7 yrel : -69
+timestamp : 28533x : 677 y : 394 xrel : 8 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 616 y : 155 xrel : -17 yrel : -65
+timestamp : 28533x : 683 y : 392 xrel : 6 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 24 yrel : 205
+timestamp : 28572x : 688 y : 390 xrel : 5 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 633 y : 323 xrel : -7 yrel : -37
+timestamp : 28572x : 693 y : 387 xrel : 5 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 7 yrel : 37
+timestamp : 28572x : 696 y : 384 xrel : 3 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 629 y : 311 xrel : -11 yrel : -49
+timestamp : 28599x : 698 y : 380 xrel : 2 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 11 yrel : 49
+timestamp : 28599x : 698 y : 367 xrel : 0 yrel : -13
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 629 y : 321 xrel : -11 yrel : -39
+timestamp : 28609x : 698 y : 360 xrel : 0 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 614 y : 290 xrel : -15 yrel : -31
+timestamp : 28641x : 685 y : 353 xrel : -13 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 597 y : 255 xrel : -17 yrel : -35
+timestamp : 28641x : 667 y : 348 xrel : -18 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 43 yrel : 105
+timestamp : 28672x : 649 y : 342 xrel : -18 yrel : -6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 623 y : 327 xrel : -17 yrel : -33
+timestamp : 28672x : 635 y : 337 xrel : -14 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 604 y : 296 xrel : -19 yrel : -31
+timestamp : 28682x : 626 y : 332 xrel : -9 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 593 y : 283 xrel : -11 yrel : -13
+timestamp : 28709x : 622 y : 327 xrel : -4 yrel : -5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 47 yrel : 77
+timestamp : 28740x : 622 y : 326 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 611 y : 335 xrel : -29 yrel : -25
+timestamp : 28805x : 604 y : 322 xrel : -18 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 590 y : 318 xrel : -21 yrel : -17
+timestamp : 28816x : 596 y : 320 xrel : -8 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 50 yrel : 42
+timestamp : 28828x : 586 y : 318 xrel : -10 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 613 y : 341 xrel : -27 yrel : -19
+timestamp : 28838x : 575 y : 315 xrel : -11 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 584 y : 322 xrel : -29 yrel : -19
+timestamp : 28848x : 556 y : 313 xrel : -19 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 56 yrel : 38
+timestamp : 28878x : 518 y : 315 xrel : -38 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 607 y : 341 xrel : -33 yrel : -19
+timestamp : 28878x : 506 y : 321 xrel : -12 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 574 y : 324 xrel : -33 yrel : -17
+timestamp : 28909x : 497 y : 327 xrel : -9 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 545 y : 307 xrel : -29 yrel : -17
+timestamp : 28909x : 491 y : 332 xrel : -6 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 95 yrel : 53
+timestamp : 28942x : 486 y : 337 xrel : -5 yrel : 5
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 611 y : 347 xrel : -29 yrel : -13
+timestamp : 28942x : 482 y : 341 xrel : -4 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 582 y : 334 xrel : -29 yrel : -13
+timestamp : 28942x : 476 y : 344 xrel : -6 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 561 y : 325 xrel : -21 yrel : -9
+timestamp : 28970x : 469 y : 348 xrel : -7 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 79 yrel : 35
+timestamp : 28970x : 462 y : 352 xrel : -7 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 627 y : 355 xrel : -13 yrel : -5
+timestamp : 29004x : 457 y : 358 xrel : -5 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 618 y : 355 xrel : -9 yrel : 0
+timestamp : 29004x : 453 y : 368 xrel : -4 yrel : 10
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 22 yrel : 5
+timestamp : 29015x : 448 y : 402 xrel : -5 yrel : 34
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 635 y : 360 xrel : -5 yrel : 0
+timestamp : 29045x : 448 y : 415 xrel : 0 yrel : 13
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 634 y : 361 xrel : -1 yrel : 1
+timestamp : 29045x : 447 y : 421 xrel : -1 yrel : 6
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 6 yrel : -1
+timestamp : 29078x : 447 y : 424 xrel : 0 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 644 y : 381 xrel : 4 yrel : 21
+timestamp : 29078x : 447 y : 427 xrel : 0 yrel : 3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 661 y : 400 xrel : 17 yrel : 19
+timestamp : 29078x : 447 y : 429 xrel : 0 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 663 y : 400 xrel : 2 yrel : 0
+timestamp : 29107x : 447 y : 431 xrel : 0 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -23 yrel : -40
+timestamp : 29107x : 447 y : 433 xrel : 0 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 679 y : 379 xrel : 39 yrel : 19
+timestamp : 29141x : 447 y : 435 xrel : 0 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -39 yrel : -19
+timestamp : 29141x : 446 y : 437 xrel : -1 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 705 y : 393 xrel : 65 yrel : 33
+timestamp : 29141x : 444 y : 438 xrel : -2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 770 y : 430 xrel : 65 yrel : 37
+timestamp : 29170x : 436 y : 440 xrel : -8 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 803 y : 477 xrel : 33 yrel : 47
+timestamp : 29170x : 430 y : 440 xrel : -6 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -163 yrel : -117
+timestamp : 29186x : 425 y : 440 xrel : -5 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 675 y : 429 xrel : 35 yrel : 69
+timestamp : 29237x : 420 y : 440 xrel : -5 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 692 y : 480 xrel : 17 yrel : 51
+timestamp : 29237x : 417 y : 438 xrel : -3 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 717 y : 523 xrel : 25 yrel : 43
+timestamp : 29237x : 415 y : 437 xrel : -2 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -77 yrel : -163
+timestamp : 29237x : 413 y : 435 xrel : -2 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 653 y : 383 xrel : 13 yrel : 23
+timestamp : 29265x : 411 y : 435 xrel : -2 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 688 y : 442 xrel : 35 yrel : 59
+timestamp : 29265x : 410 y : 434 xrel : -1 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -48 yrel : -82
+timestamp : 29276x : 409 y : 434 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 671 y : 419 xrel : 31 yrel : 59
+timestamp : 29306x : 404 y : 434 xrel : -5 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 702 y : 474 xrel : 31 yrel : 55
+timestamp : 29306x : 400 y : 434 xrel : -4 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -62 yrel : -114
+timestamp : 29342x : 397 y : 435 xrel : -3 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 675 y : 403 xrel : 35 yrel : 43
+timestamp : 29342x : 394 y : 435 xrel : -3 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 708 y : 436 xrel : 33 yrel : 33
+timestamp : 29353x : 392 y : 435 xrel : -2 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 741 y : 455 xrel : 33 yrel : 19
+timestamp : 29377x : 391 y : 434 xrel : -1 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -101 yrel : -95
+timestamp : 29378x : 390 y : 433 xrel : -1 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 667 y : 371 xrel : 27 yrel : 11
+timestamp : 29388x : 388 y : 429 xrel : -2 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 698 y : 378 xrel : 31 yrel : 7
+timestamp : 29412x : 387 y : 428 xrel : -1 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 723 y : 378 xrel : 25 yrel : 0
+timestamp : 29447x : 386 y : 427 xrel : -1 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -83 yrel : -18
+timestamp : 29447x : 385 y : 427 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 657 y : 351 xrel : 17 yrel : -9
+timestamp : 29447x : 382 y : 426 xrel : -3 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 664 y : 336 xrel : 7 yrel : -15
+timestamp : 29475x : 379 y : 426 xrel : -3 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -24 yrel : 24
+timestamp : 29475x : 374 y : 426 xrel : -5 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 644 y : 355 xrel : 4 yrel : -5
+timestamp : 29486x : 367 y : 426 xrel : -7 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 644 y : 351 xrel : 0 yrel : -4
+timestamp : 29541x : 364 y : 427 xrel : -3 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -4 yrel : 9
+timestamp : 29541x : 362 y : 428 xrel : -2 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 359 xrel : -3 yrel : -1
+timestamp : 29541x : 360 y : 430 xrel : -2 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 3 yrel : 1
+timestamp : 29541x : 356 y : 432 xrel : -4 yrel : 2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 627 y : 367 xrel : -13 yrel : 7
+timestamp : 30479x : 357 y : 432 xrel : 1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 625 y : 376 xrel : -2 yrel : 9
+timestamp : 30493x : 358 y : 432 xrel : 1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 628 y : 384 xrel : 3 yrel : 8
+timestamp : 30514x : 358 y : 433 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 12 yrel : -24
+timestamp : 30555x : 338 y : 441 xrel : -20 yrel : 8
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 361 xrel : 0 yrel : 1
+timestamp : 30585x : 337 y : 441 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 0 yrel : -1
+timestamp : 30585x : 336 y : 441 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 642 y : 361 xrel : 2 yrel : 1
+timestamp : 30614x : 336 y : 440 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 655 y : 370 xrel : 13 yrel : 9
+timestamp : 30649x : 335 y : 439 xrel : -1 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 686 y : 388 xrel : 31 yrel : 18
+timestamp : 30659x : 334 y : 439 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -46 yrel : -28
+timestamp : 30684x : 334 y : 438 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 651 y : 365 xrel : 11 yrel : 5
+timestamp : 30684x : 324 y : 435 xrel : -10 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 652 y : 365 xrel : 1 yrel : 0
+timestamp : 30696x : 323 y : 433 xrel : -1 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 663 y : 375 xrel : 11 yrel : 10
+timestamp : 30721x : 322 y : 433 xrel : -1 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -23 yrel : -15
+timestamp : 30721x : 322 y : 432 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 648 y : 370 xrel : 8 yrel : 10
+timestamp : 30850x : 322 y : 431 xrel : 0 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 650 y : 372 xrel : 2 yrel : 2
+timestamp : 30945x : 297 y : 427 xrel : -25 yrel : -4
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -10 yrel : -12
+timestamp : 30959x : 287 y : 424 xrel : -10 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 637 y : 360 xrel : -3 yrel : 0
+timestamp : 30969x : 275 y : 417 xrel : -12 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 628 y : 357 xrel : -9 yrel : -3
+timestamp : 30980x : 265 y : 410 xrel : -10 yrel : -7
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 12 yrel : 3
+timestamp : 30990x : 261 y : 407 xrel : -4 yrel : -3
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 635 y : 357 xrel : -5 yrel : -3
+timestamp : 31014x : 261 y : 405 xrel : 0 yrel : -2
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 5 yrel : 3
+timestamp : 31079x : 261 y : 406 xrel : 0 yrel : 1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 635 y : 357 xrel : -5 yrel : -3
+timestamp : 31103x : 253 y : 406 xrel : -8 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : 5 yrel : 3
+timestamp : 31113x : 250 y : 406 xrel : -3 yrel : 0
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 641 y : 358 xrel : 1 yrel : -2
+timestamp : 31123x : 248 y : 405 xrel : -2 yrel : -1
 state : 0
+type : 1024, which : 0, windowID : 2
 
-x : 640 y : 360 xrel : -1 yrel : 2
+timestamp : 31196x : 249 y : 409 xrel : 1 yrel : 4
 state : 0
+type : 1024, which : 0, windowID : 2
+
+timestamp : 31860
+x : 249 y : 409
+state : 1, clicks : 1, button : 1
+padding1 : 1, type : 1025, which : 0, windowID : 2
+
+timestamp : 32378x : 249 y : 408 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32392x : 249 y : 407 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32416x : 250 y : 407 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32426x : 251 y : 406 xrel : 1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32450x : 251 y : 405 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32531x : 259 y : 401 xrel : 8 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32576x : 260 y : 401 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32675x : 271 y : 393 xrel : 11 yrel : -8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32710x : 272 y : 393 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32777x : 288 y : 383 xrel : 16 yrel : -10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32777x : 297 y : 377 xrel : 9 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32777x : 301 y : 376 xrel : 4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32791x : 302 y : 376 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32801x : 302 y : 375 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32847x : 322 y : 364 xrel : 20 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32847x : 344 y : 359 xrel : 22 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32861x : 362 y : 355 xrel : 18 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32876x : 371 y : 354 xrel : 9 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32887x : 376 y : 353 xrel : 5 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32922x : 376 y : 352 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32955x : 393 y : 348 xrel : 17 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32955x : 402 y : 346 xrel : 9 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 32990x : 406 y : 346 xrel : 4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33057x : 416 y : 346 xrel : 10 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33071x : 420 y : 347 xrel : 4 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33081x : 421 y : 347 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33102x : 425 y : 347 xrel : 4 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33126x : 427 y : 347 xrel : 2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33126x : 432 y : 347 xrel : 5 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33136x : 440 y : 345 xrel : 8 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33160x : 449 y : 345 xrel : 9 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33171x : 457 y : 345 xrel : 8 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33195x : 460 y : 345 xrel : 3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33226x : 461 y : 345 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33263x : 471 y : 344 xrel : 10 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33296x : 475 y : 343 xrel : 4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33297x : 477 y : 343 xrel : 2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33324x : 478 y : 342 xrel : 1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33532x : 477 y : 342 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33555x : 476 y : 343 xrel : -1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33576x : 474 y : 344 xrel : -2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33601x : 471 y : 344 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33601x : 466 y : 344 xrel : -5 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33611x : 461 y : 344 xrel : -5 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33635x : 455 y : 342 xrel : -6 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33645x : 450 y : 341 xrel : -5 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33669x : 449 y : 340 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33669x : 449 y : 339 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33734x : 432 y : 335 xrel : -17 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33747x : 427 y : 334 xrel : -5 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33757x : 423 y : 333 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33768x : 423 y : 332 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33803x : 422 y : 332 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33840x : 399 y : 329 xrel : -23 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33874x : 396 y : 329 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33874x : 395 y : 328 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33937x : 383 y : 327 xrel : -12 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33951x : 375 y : 326 xrel : -8 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33965x : 364 y : 325 xrel : -11 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 33976x : 357 y : 324 xrel : -7 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 34010x : 355 y : 323 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 34010x : 355 y : 322 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 34074x : 354 y : 322 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+
+timestamp : 36111
+x : 354 y : 322
+state : 1, clicks : 1, button : 1
+padding1 : 1, type : 1025, which : 0, windowID : 2
+
+timestamp : 36405x : 354 y : 319 xrel : 0 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36418x : 354 y : 318 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36429x : 355 y : 315 xrel : 1 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36449x : 358 y : 314 xrel : 3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36475x : 361 y : 313 xrel : 3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36475x : 367 y : 312 xrel : 6 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36486x : 376 y : 312 xrel : 9 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36510x : 388 y : 312 xrel : 12 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36542x : 438 y : 317 xrel : 50 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36542x : 483 y : 325 xrel : 45 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36542x : 516 y : 336 xrel : 33 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36575x : 542 y : 347 xrel : 26 yrel : 11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36575x : 576 y : 357 xrel : 34 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36586x : 606 y : 369 xrel : 30 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36611x : 631 y : 377 xrel : 25 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36611x : 651 y : 382 xrel : 20 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36643x : 700 y : 388 xrel : 49 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36643x : 720 y : 393 xrel : 20 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36676x : 732 y : 395 xrel : 12 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36676x : 740 y : 396 xrel : 8 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36714x : 748 y : 398 xrel : 8 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36714x : 760 y : 401 xrel : 12 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36714x : 781 y : 406 xrel : 21 yrel : 5
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36742x : 799 y : 419 xrel : 28 yrel : 13
+state : 1
+type : 1024, which : 0, windowID : 2
+
+
+
+timestamp : 36899x : 758 y : 381 xrel : -51 yrel : -38
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36912x : 705 y : 363 xrel : -53 yrel : -18
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36923x : 666 y : 335 xrel : -39 yrel : -28
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36933x : 625 y : 298 xrel : -41 yrel : -37
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36969x : 579 y : 282 xrel : -46 yrel : -16
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 36969x : 548 y : 273 xrel : -31 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37001x : 529 y : 267 xrel : -19 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37001x : 496 y : 257 xrel : -33 yrel : -10
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37001x : 474 y : 248 xrel : -22 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37041x : 445 y : 237 xrel : -29 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37041x : 424 y : 225 xrel : -21 yrel : -12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37074x : 411 y : 214 xrel : -13 yrel : -11
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37074x : 405 y : 207 xrel : -6 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37074x : 400 y : 203 xrel : -5 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37108x : 390 y : 196 xrel : -10 yrel : -7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37108x : 386 y : 194 xrel : -4 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37119x : 384 y : 193 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37145x : 382 y : 192 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37145x : 381 y : 192 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37244x : 380 y : 192 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37288x : 377 y : 192 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37312x : 376 y : 192 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37378x : 375 y : 192 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37401x : 370 y : 191 xrel : -5 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37412x : 368 y : 190 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37422x : 365 y : 189 xrel : -3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37448x : 362 y : 189 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37481x : 359 y : 188 xrel : -3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37481x : 358 y : 187 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37552x : 361 y : 189 xrel : 3 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37566x : 424 y : 210 xrel : 63 yrel : 21
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37576x : 454 y : 233 xrel : 30 yrel : 23
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37621x : 480 y : 252 xrel : 26 yrel : 19
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37621x : 506 y : 264 xrel : 26 yrel : 12
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37621x : 534 y : 272 xrel : 28 yrel : 8
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37634x : 552 y : 278 xrel : 18 yrel : 6
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37658x : 570 y : 285 xrel : 18 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37691x : 576 y : 287 xrel : 6 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37691x : 580 y : 288 xrel : 4 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37691x : 582 y : 289 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37703x : 583 y : 290 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37728x : 585 y : 291 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37760x : 587 y : 292 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
+
+timestamp : 37760x : 589 y : 293 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 37760x : 590 y : 293 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 37829x : 589 y : 292 xrel : -1 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 37844x : 578 y : 286 xrel : -11 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 37864x : 566 y : 282 xrel : -12 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 37898x : 554 y : 277 xrel : -12 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 37898x : 538 y : 272 xrel : -16 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 37898x : 518 y : 266 xrel : -20 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 37932x : 505 y : 260 xrel : -13 yrel : -6
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 37932x : 493 y : 255 xrel : -12 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 37965x : 470 y : 242 xrel : -23 yrel : -13
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 37965x : 458 y : 239 xrel : -12 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38001x : 447 y : 236 xrel : -11 yrel : -3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38001x : 438 y : 234 xrel : -9 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38001x : 432 y : 233 xrel : -6 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38029x : 430 y : 233 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38029x : 428 y : 232 xrel : -2 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Down keysym : 1073741905
+timestamp : 38062x : 424 y : 231 xrel : -4 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38062x : 423 y : 231 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38100x : 421 y : 231 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38100x : 419 y : 231 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38100x : 416 y : 230 xrel : -3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38131x : 414 y : 230 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 38131x : 411 y : 230 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38163x : 406 y : 230 xrel : -5 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38163x : 405 y : 230 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38163x : 404 y : 230 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38191x : 403 y : 230 xrel : -1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38292x : 403 y : 231 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38305x : 408 y : 234 xrel : 5 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38326x : 448 y : 258 xrel : 40 yrel : 24
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38336x : 489 y : 274 xrel : 41 yrel : 16
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Down keysym : 1073741905
+timestamp : 38362x : 524 y : 284 xrel : 35 yrel : 10
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38362x : 542 y : 291 xrel : 18 yrel : 7
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38373x : 550 y : 294 xrel : 8 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38401x : 553 y : 296 xrel : 3 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38401x : 554 y : 296 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38435x : 555 y : 296 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 38435x : 555 y : 297 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38500x : 555 y : 298 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38513x : 556 y : 298 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38534x : 557 y : 299 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38544x : 558 y : 299 xrel : 1 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38679x : 549 y : 297 xrel : -9 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Down keysym : 1073741905
+timestamp : 38692x : 540 y : 295 xrel : -9 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38704x : 491 y : 286 xrel : -49 yrel : -9
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38714x : 471 y : 281 xrel : -20 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38724x : 458 y : 277 xrel : -13 yrel : -4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38752x : 451 y : 275 xrel : -7 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 38752x : 444 y : 274 xrel : -7 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38785x : 439 y : 272 xrel : -5 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38785x : 436 y : 271 xrel : -3 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38816x : 433 y : 271 xrel : -3 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 38816x : 433 y : 270 xrel : 0 yrel : -1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Down keysym : 1073741905
+timestamp : 38903x : 433 y : 271 xrel : 0 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38971x : 449 y : 275 xrel : 16 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 38984x : 455 y : 277 xrel : 6 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 38994x : 465 y : 279 xrel : 10 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39014x : 477 y : 283 xrel : 12 yrel : 4
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Down keysym : 1073741905
+timestamp : 39044x : 495 y : 286 xrel : 18 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39044x : 504 y : 288 xrel : 9 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 39065x : 510 y : 290 xrel : 6 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39065x : 515 y : 291 xrel : 5 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 39079x : 522 y : 294 xrel : 7 yrel : 3
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39115x : 524 y : 296 xrel : 2 yrel : 2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 39115x : 526 y : 297 xrel : 2 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39149x : 527 y : 298 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Right keysym : 1073741903
+timestamp : 39149x : 528 y : 299 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39149x : 529 y : 300 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Down keysym : 1073741905
+timestamp : 39184x : 530 y : 301 xrel : 1 yrel : 1
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 39269x : 513 y : 296 xrel : -17 yrel : -5
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39283x : 504 y : 294 xrel : -9 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39293x : 492 y : 292 xrel : -12 yrel : -2
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Up keysym : 1073741906
+timestamp : 39304x : 486 y : 292 xrel : -6 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYDOWN
-keyname : Left keysym : 1073741904
+timestamp : 39314x : 484 y : 292 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
+timestamp : 39340x : 482 y : 292 xrel : -2 yrel : 0
+state : 1
+type : 1024, which : 0, windowID : 2
 
-KEYUP
 
 KEYDOWN
 keyname : Escape keysym : 27
-QUIT

@@ -8,18 +8,12 @@ struct tm      *t;
 void
 __initprinter() {
     logfile = fopen("log/event", "w");
-    if (logfile == NULL) {
-	perror("initprinter");
-	exit(1);
-    }
+    __errorcheck(logfile, "initprinter");
 }
 
 void
 __destroyprinter() {
-    if (logfile == NULL) {
-	perror("destroyprinter");
-	exit(1);
-    }
+    __errorcheck(logfile, "destroyprinter");
     fclose(logfile);
 }
 
@@ -32,17 +26,6 @@ __printlog(const char *restrict str, ...) {
     va_start(params, str);
     vfprintf(logfile, str, params);
     va_end(params);
-}
-
-void
-__printstart(SDL_Event * __attribute__ ((unused)) event) {
-    __printlog("---EVENT---\n");
-    __printtime(event, &timer, t);
-}
-
-void
-__printend(SDL_Event * __attribute__ ((unused)) event) {
-    __printlog("---EVENT---\n");
 }
 
 void
@@ -68,15 +51,22 @@ __printkeysym(SDL_Event * __attribute__ ((unused)) event,
 void
 __printmousebutton(SDL_Event * __attribute__ ((unused)) event,
 		   SDL_MouseButtonEvent * button) {
+    __printlog("timestamp : %d\n", button->timestamp);
     __printlog("x : %d y : %d\n", button->x, button->y);
     __printlog("state : %d, clicks : %d, button : %d\n", button->state,
 	       button->clicks, button->button);
+    __printlog("padding1 : %d, type : %d, which : %d, windowID : %d\n",
+	       button->padding1, button->type, button->which,
+	       button->windowID);
 }
 
 void
 __printmousemotion(SDL_Event * __attribute__ ((unused)) event,
 		   SDL_MouseMotionEvent * motion) {
+    __printlog("timestamp : %d", motion->timestamp);
     __printlog("x : %d y : %d xrel : %d yrel : %d\n", motion->x, motion->y,
 	       motion->xrel, motion->yrel);
     __printlog("state : %d\n", motion->state);
+    __printlog("type : %d, which : %d, windowID : %d\n", motion->type,
+	       motion->which, motion->windowID);
 }

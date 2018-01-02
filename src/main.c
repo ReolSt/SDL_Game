@@ -1,11 +1,15 @@
 #include "include/library.h"
 
-int             width = 1280;
-int             height = 720;
+int             width = 800;
+int             height = 600;
 
 SDL_Window     *mainwindow;
 SDL_Renderer   *renderer;
 SDL_Event       event;
+
+SDL_KeyboardEvent *keyboardevent;
+SDL_MouseMotionEvent *motionevent;
+SDL_MouseButtonEvent *buttonevent;
 
 SDL_Texture    *startimgtexture;
 SDL_Texture    *mainmenutexture;
@@ -28,7 +32,7 @@ SDL_Rect        characterrect = { 640, 360, 128, 128 };
 SDL_Point       flippoint = { 64, 64 };
 
 // handler
-__flags         mainflags = { 0, 0, 0, 0, 0, 1, 0, 0 };
+__flags         mainflags = { 0, 0 };
 
 int
 main(int __attribute__ ((unused)) argc, char **
@@ -37,30 +41,49 @@ main(int __attribute__ ((unused)) argc, char **
     while (mainflags.running) {
 
 	while (SDL_PollEvent(&event)) {
-	    __handleevent(&event, &mainflags);
+	    __printlog("\n");
+	    switch (event.type) {
+	    case SDL_KEYUP:
+		break;
+	    case SDL_KEYDOWN:
+		__handlekey(&event, &mainflags, &(event.key));
+		break;
+	    case SDL_MOUSEBUTTONUP:
+		break;
+	    case SDL_MOUSEBUTTONDOWN:
+		__printmousebutton(&event, &(event.button));
+		__handlemousebutton(&event, &mainflags, &(event.button));
+		break;
+	    case SDL_MOUSEMOTION:
+		__printmousemotion(&event, &(event.motion));
+		__handlemousemotion(&event, &mainflags, &(event.motion));
+		break;
+	    case SDL_QUIT:
+		__printquit(&event);
+		__handlequit(&event, &mainflags);
+		break;
+	    default:
+		break;
+	    }
+	    
+	    if(motionevent->state == 1) {
+		if(motionevent->x > characterrect.x && motionevent->x < characterrect.x + characterrect.w) {
+		    if(motionevent->y > characterrect.y && motionevent->y < characterrect.y + characterrect.h) {
+			characterrect.x = motionevent->x - characterrect.w/2;
+			characterrect.y = motionevent->y - characterrect.h/2;
+		    }
+		}
+	    }
+
 	}
-	
+
+
+	// SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
+
 	SDL_RenderClear(renderer);
-	SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
 
 	// SDL_RenderCopy(renderer, startimgtexture, NULL, NULL);
 	SDL_RenderCopy(renderer, junkrat, NULL, &characterrect);
-	
-	if(mainflags.movex==1 || mainflags.movex==-1) {
-	    characterrect.x+=mainflags.movex*20;
-	    mainflags.movex=0;
-	}
-	
-	if(mainflags.movey==1 || mainflags.movey==-1) {
-	    characterrect.y+=mainflags.movey*20;
-	    mainflags.movey=0;
-	}
-	
-	if(mainflags.mousemotion) {
-	    	characterrect.x+=mainflags.xrel;
-         	characterrect.y+=mainflags.yrel;
-		SDL_WarpMouseGlobal(640, 360);
-	}
 
 	SDL_RenderPresent(renderer);
 	SDL_Delay(10);
@@ -70,11 +93,15 @@ main(int __attribute__ ((unused)) argc, char **
 	SDL_Init(SDL_INIT_EVERYTHING);
 	TTF_Init();
 	IMG_Init(IMG_INIT_JPG);
-	SDL_ShowCursor(SDL_DISABLE);
 	__initwindow(&mainwindow, "debug");
 	__initrenderer(&renderer);
 	__inithandler(&mainflags);
 	__initprinter();
+
+	keyboardevent = &event.key;
+	buttonevent = &event.button;
+	motionevent = &event.motion;
+
 
 	__loadttf(&menuttf, "font/LM-Regular.ttf", 20);
 
@@ -114,12 +141,14 @@ __initrenderer(SDL_Renderer ** rendererptr) {
 }
 
 void
-__loadimage(SDL_Texture ** imagetexture, SDL_Renderer * renderer,
+__loadimage(SDL_Texture ** imgtexture, SDL_Renderer * renderer,
 	    const char *restrict filename) {
     SDL_Surface    *dummysurface = NULL;
     dummysurface = IMG_Load(filename);
-    *imagetexture = SDL_CreateTextureFromSurface(renderer, dummysurface);
+    __errorcheck(dummysurface, "loadimage_IMG_Load");
+    *imgtexture = SDL_CreateTextureFromSurface(renderer, dummysurface);
     SDL_FreeSurface(dummysurface);
+    __errorcheck(*imgtexture, "loadimage");
 }
 
 void
