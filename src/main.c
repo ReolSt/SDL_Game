@@ -1,7 +1,7 @@
 #include "include/library.h"
 
-int             width = 800;
-int             height = 600;
+int             width = 1280;
+int             height = 720;
 
 SDL_Window     *mainwindow;
 SDL_Renderer   *renderer;
@@ -28,13 +28,15 @@ SDL_Color       green = { 0, 255, 0, 255 };
 SDL_Color       blue = { 0, 0, 255, 255 };
 
 SDL_Rect        mainmenurect = { 100, 400, 0, 0 };
-SDL_Rect        junkratrect = { 0, 0, 64, 64 };
-SDL_Rect        mercyrect = { 0, 0, 64, 64 };
-SDL_Rect hanzorect = { 0, 0, 64, 64 };
-SDL_Rect luciorect = { 0, 0, 64, 64 };
-SDL_Rect zenyattarect = {0, 0, 64, 64};
+SDL_Rect        junkratrect = { 0, 0, 128, 128 };
+SDL_Rect        mercyrect = { 0, 0, 128, 128 };
+SDL_Rect hanzorect = { 0, 0, 128, 128 };
+SDL_Rect luciorect = { 0, 0, 128, 128 };
+SDL_Rect zenyattarect = {0, 0, 128, 128};
 
 __flags         mainflags = { 0, 0 };
+
+SDL_Surface a;
 
 int
 main(int __attribute__ ((unused)) argc, char **
@@ -69,11 +71,17 @@ main(int __attribute__ ((unused)) argc, char **
 		__drag(motionevent, &luciorect);
 		__drag(motionevent, &zenyattarect);
 
+		SDL_SetTextureBlendMode(junkrat, SDL_BLENDMODE_MOD);
+		SDL_SetTextureBlendMode(mercy, SDL_BLENDMODE_MOD);
+		SDL_SetTextureBlendMode(hanzo, SDL_BLENDMODE_MOD);
+		SDL_SetTextureBlendMode(lucio, SDL_BLENDMODE_MOD);
+		SDL_SetTextureBlendMode(zenyatta, SDL_BLENDMODE_MOD);
+		
 	// SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
 
 	SDL_RenderClear(renderer);
 
-	// SDL_RenderCopy(renderer, startimgtexture, NULL, NULL);
+	SDL_RenderCopy(renderer, startimgtexture, NULL, NULL);
 	SDL_RenderCopy(renderer, junkrat, NULL, &junkratrect);
 	SDL_RenderCopy(renderer, mercy, NULL, &mercyrect);
 	SDL_RenderCopy(renderer, hanzo, NULL, &hanzorect);
@@ -110,16 +118,16 @@ main(int __attribute__ ((unused)) argc, char **
 	lucio = IMG_LoadTexture(renderer, "img/lucio.jpg");
 	zenyatta = IMG_LoadTexture(renderer, "img/zenyatta.jpg");
 
-	junkratrect.x = rand() % width;
-	junkratrect.y = rand() % height;
-	mercyrect.x = rand() % width;
-	mercyrect.y = rand() % height;
-	hanzorect.x = rand() % width;
-	hanzorect.y = rand() % height;
-	luciorect.x = rand() % width;
-	luciorect.y = rand() % height;
-	zenyattarect.x = rand() % width;
-	zenyattarect.y = rand() % height;
+	junkratrect.x = rand() % (width - 128);
+	junkratrect.y = rand() % (height - 128);
+	mercyrect.x = rand() % (width - 128);
+	mercyrect.y = rand() % (height - 128);
+	hanzorect.x = rand() % (width - 128);
+	hanzorect.y = rand() % (height - 128);
+	luciorect.x = rand() % (width - 128);
+	luciorect.y = rand() % (height - 128);
+	zenyattarect.x = rand() % (width - 128);
+	zenyattarect.y = rand() % (height - 128);
         
 
 	mainflags.init = 1;
