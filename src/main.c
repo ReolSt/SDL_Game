@@ -16,8 +16,6 @@ SDL_Texture    *mainmenutexture;
 SDL_Texture    *junkrat;
 SDL_Texture    *mercy;
 
-SDL_Texture    *glow;
-
 TTF_Font       *menuttf;
 
 SDL_Color       black = { 0, 0, 0, 255 };
@@ -27,11 +25,9 @@ SDL_Color       green = { 0, 255, 0, 255 };
 SDL_Color       blue = { 0, 0, 255, 255 };
 
 SDL_Rect        mainmenurect = { 100, 400, 0, 0 };
-SDL_Rect        characterrect = { 640, 360, 128, 128 };
+SDL_Rect        junkratrect = { 640, 360, 128, 128 };
+SDL_Rect        mercyrect = { 100, 100, 128, 128 };
 
-SDL_Point       flippoint = { 64, 64 };
-
-// handler
 __flags         mainflags = { 0, 0 };
 
 int
@@ -43,20 +39,14 @@ main(int __attribute__ ((unused)) argc, char **
 	while (SDL_PollEvent(&event)) {
 	    __printlog("\n");
 	    switch (event.type) {
-	    case SDL_KEYUP:
-		break;
 	    case SDL_KEYDOWN:
 		__handlekey(&event, &mainflags, &(event.key));
 		break;
-	    case SDL_MOUSEBUTTONUP:
-		break;
 	    case SDL_MOUSEBUTTONDOWN:
 		__printmousebutton(&event, &(event.button));
-		__handlemousebutton(&event, &mainflags, &(event.button));
 		break;
 	    case SDL_MOUSEMOTION:
 		__printmousemotion(&event, &(event.motion));
-		__handlemousemotion(&event, &mainflags, &(event.motion));
 		break;
 	    case SDL_QUIT:
 		__printquit(&event);
@@ -65,25 +55,18 @@ main(int __attribute__ ((unused)) argc, char **
 	    default:
 		break;
 	    }
-	    
-	    if(motionevent->state == 1) {
-		if(motionevent->x > characterrect.x && motionevent->x < characterrect.x + characterrect.w) {
-		    if(motionevent->y > characterrect.y && motionevent->y < characterrect.y + characterrect.h) {
-			characterrect.x = motionevent->x - characterrect.w/2;
-			characterrect.y = motionevent->y - characterrect.h/2;
-		    }
-		}
-	    }
+
+	    __drag(motionevent, &junkratrect);
+	    __drag(motionevent, &mercyrect);
 
 	}
-
-
 	// SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
 
 	SDL_RenderClear(renderer);
 
 	// SDL_RenderCopy(renderer, startimgtexture, NULL, NULL);
-	SDL_RenderCopy(renderer, junkrat, NULL, &characterrect);
+	SDL_RenderCopy(renderer, junkrat, NULL, &junkratrect);
+	SDL_RenderCopy(renderer, mercy, NULL, &mercyrect);
 
 	SDL_RenderPresent(renderer);
 	SDL_Delay(10);
@@ -107,6 +90,7 @@ main(int __attribute__ ((unused)) argc, char **
 
 	startimgtexture = IMG_LoadTexture(renderer, "img/main.jpg");
 	junkrat = IMG_LoadTexture(renderer, "img/junkrat.jpg");
+	mercy = IMG_LoadTexture(renderer, "img/mercy.jpg");
 
 	mainflags.init = 1;
 	goto mainloop;

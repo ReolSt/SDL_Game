@@ -8,13 +8,13 @@ typedef struct {
     int8_t          init;
 } __flags;
 
-int             __inithandler(__flags *);
-int             __handleevent(SDL_Event *, __flags *);
-int             __handlequit(SDL_Event *, __flags *);
-int             __handlekey(SDL_Event *, __flags *, SDL_KeyboardEvent *);
-SDL_Keysym     *__handlekeysym(SDL_Event *, __flags *, SDL_Keysym *);
-SDL_MouseButtonEvent *__handlemousebutton(SDL_Event *, __flags *,
-					  SDL_MouseButtonEvent *);
-SDL_MouseMotionEvent *__handlemousemotion(SDL_Event *, __flags *,
-					  SDL_MouseMotionEvent *);
+void            __inithandler(__flags *);
+void            __handleevent(SDL_Event *, __flags *);
+void            __handlequit(SDL_Event *, __flags *);
+void            __handlekey(SDL_Event *, __flags *, SDL_KeyboardEvent *);
+void            __handlekeysym(SDL_Event *, __flags *, SDL_Keysym *);
+void            __handlemousebutton(SDL_Event *, __flags *,
+				    SDL_MouseButtonEvent *);
+void            __handlemousemotion(SDL_Event *, __flags *,
+				    SDL_MouseMotionEvent *);
 #endif

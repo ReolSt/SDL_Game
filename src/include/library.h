@@ -18,4 +18,5 @@
 #include "handle.h"
 #include "destroy.h"
 #include "error.h"
+#include "behavior.h"
 #endif

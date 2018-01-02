@@ -3,6 +3,6 @@
 
 #include "library.h"
 
-void            __moveimg(SDL_Rect *);
+void            __drag(SDL_MouseMotionEvent *, SDL_Rect *);
 
 #endif

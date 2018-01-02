@@ -44,8 +44,10 @@ __printquit(SDL_Event * __attribute__ ((unused)) event) {
 void
 __printkeysym(SDL_Event * __attribute__ ((unused)) event,
 	      SDL_Keysym * keysym) {
+    __printlog("mod : %d, scancode : %d\n", keysym->mod, keysym->scancode);
     __printlog("keyname : %s keysym : %d\n", SDL_GetKeyName(keysym->sym),
 	       keysym->sym);
+    __printlog("unused : %d\n", keysym->unused);
 }
 
 void
@@ -63,7 +65,7 @@ __printmousebutton(SDL_Event * __attribute__ ((unused)) event,
 void
 __printmousemotion(SDL_Event * __attribute__ ((unused)) event,
 		   SDL_MouseMotionEvent * motion) {
-    __printlog("timestamp : %d", motion->timestamp);
+    __printlog("timestamp : %d\n", motion->timestamp);
     __printlog("x : %d y : %d xrel : %d yrel : %d\n", motion->x, motion->y,
 	       motion->xrel, motion->yrel);
     __printlog("state : %d\n", motion->state);
