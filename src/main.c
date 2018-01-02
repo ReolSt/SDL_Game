@@ -15,6 +15,9 @@ SDL_Texture    *startimgtexture;
 SDL_Texture    *mainmenutexture;
 SDL_Texture    *junkrat;
 SDL_Texture    *mercy;
+SDL_Texture    *hanzo;
+SDL_Texture    *lucio;
+SDL_Texture    *zenyatta;
 
 TTF_Font       *menuttf;
 
@@ -25,8 +28,11 @@ SDL_Color       green = { 0, 255, 0, 255 };
 SDL_Color       blue = { 0, 0, 255, 255 };
 
 SDL_Rect        mainmenurect = { 100, 400, 0, 0 };
-SDL_Rect        junkratrect = { 640, 360, 128, 128 };
-SDL_Rect        mercyrect = { 100, 100, 128, 128 };
+SDL_Rect        junkratrect = { 0, 0, 64, 64 };
+SDL_Rect        mercyrect = { 0, 0, 64, 64 };
+SDL_Rect hanzorect = { 0, 0, 64, 64 };
+SDL_Rect luciorect = { 0, 0, 64, 64 };
+SDL_Rect zenyattarect = {0, 0, 64, 64};
 
 __flags         mainflags = { 0, 0 };
 
@@ -54,12 +60,15 @@ main(int __attribute__ ((unused)) argc, char **
 		break;
 	    default:
 		break;
-	    }
-
-	    __drag(motionevent, &junkratrect);
-	    __drag(motionevent, &mercyrect);
-
+	    }	    
 	}
+
+		__drag(motionevent, &junkratrect);
+         	__drag(motionevent, &mercyrect);
+		__drag(motionevent, &hanzorect);
+		__drag(motionevent, &luciorect);
+		__drag(motionevent, &zenyattarect);
+
 	// SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
 
 	SDL_RenderClear(renderer);
@@ -67,6 +76,9 @@ main(int __attribute__ ((unused)) argc, char **
 	// SDL_RenderCopy(renderer, startimgtexture, NULL, NULL);
 	SDL_RenderCopy(renderer, junkrat, NULL, &junkratrect);
 	SDL_RenderCopy(renderer, mercy, NULL, &mercyrect);
+	SDL_RenderCopy(renderer, hanzo, NULL, &hanzorect);
+	SDL_RenderCopy(renderer, lucio, NULL, &luciorect);
+	SDL_RenderCopy(renderer, zenyatta, NULL, &zenyattarect);
 
 	SDL_RenderPresent(renderer);
 	SDL_Delay(10);
@@ -76,10 +88,13 @@ main(int __attribute__ ((unused)) argc, char **
 	SDL_Init(SDL_INIT_EVERYTHING);
 	TTF_Init();
 	IMG_Init(IMG_INIT_JPG);
+	
 	__initwindow(&mainwindow, "debug");
 	__initrenderer(&renderer);
 	__inithandler(&mainflags);
 	__initprinter();
+
+	srand(time(NULL));
 
 	keyboardevent = &event.key;
 	buttonevent = &event.button;
@@ -91,19 +106,45 @@ main(int __attribute__ ((unused)) argc, char **
 	startimgtexture = IMG_LoadTexture(renderer, "img/main.jpg");
 	junkrat = IMG_LoadTexture(renderer, "img/junkrat.jpg");
 	mercy = IMG_LoadTexture(renderer, "img/mercy.jpg");
+	hanzo = IMG_LoadTexture(renderer, "img/hanzo.jpg");
+	lucio = IMG_LoadTexture(renderer, "img/lucio.jpg");
+	zenyatta = IMG_LoadTexture(renderer, "img/zenyatta.jpg");
+
+	junkratrect.x = rand() % width;
+	junkratrect.y = rand() % height;
+	mercyrect.x = rand() % width;
+	mercyrect.y = rand() % height;
+	hanzorect.x = rand() % width;
+	hanzorect.y = rand() % height;
+	luciorect.x = rand() % width;
+	luciorect.y = rand() % height;
+	zenyattarect.x = rand() % width;
+	zenyattarect.y = rand() % height;
+        
 
 	mainflags.init = 1;
 	goto mainloop;
     }
 
     __destroyttf(&menuttf);
+    
     __destroytexture(&startimgtexture);
     __destroytexture(&junkrat);
+    __destroytexture(&mercy);
+    __destroytexture(&hanzo);
+    __destroytexture(&lucio);
+    __destroytexture(&zenyatta);
+    
     __destroywindow(&mainwindow);
+
     __destroyrenderer(&renderer);
+
     __destroyprinter();
+    
     TTF_Quit();
+
     IMG_Quit();
+
     SDL_Quit();
 }
 
