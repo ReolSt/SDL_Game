@@ -3,7 +3,7 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
-
+#include <SDL2/SDL_mixer.h>
 #if defined(__LINUX__) || defined(__UNIX__)
 #include <unistd.h>
 #include <fcntl.h>

@@ -11,6 +11,9 @@ SDL_KeyboardEvent *keyboardevent;
 SDL_MouseMotionEvent *motionevent;
 SDL_MouseButtonEvent *buttonevent;
 
+Mix_Chunk* bgm;
+int channel;
+
 SDL_Texture    *startimgtexture;
 SDL_Texture    *mainmenutexture;
 SDL_Texture    *junkrat;
@@ -30,13 +33,11 @@ SDL_Color       blue = { 0, 0, 255, 255 };
 SDL_Rect        mainmenurect = { 100, 400, 0, 0 };
 SDL_Rect        junkratrect = { 0, 0, 128, 128 };
 SDL_Rect        mercyrect = { 0, 0, 128, 128 };
-SDL_Rect hanzorect = { 0, 0, 128, 128 };
-SDL_Rect luciorect = { 0, 0, 128, 128 };
-SDL_Rect zenyattarect = {0, 0, 128, 128};
+SDL_Rect        hanzorect = { 0, 0, 128, 128 };
+SDL_Rect        luciorect = { 0, 0, 128, 128 };
+SDL_Rect        zenyattarect = { 0, 0, 128, 128 };
 
 __flags         mainflags = { 0, 0 };
-
-SDL_Surface a;
 
 int
 main(int __attribute__ ((unused)) argc, char **
@@ -62,21 +63,25 @@ main(int __attribute__ ((unused)) argc, char **
 		break;
 	    default:
 		break;
-	    }	    
+	    }
 	}
 
-		__drag(motionevent, &junkratrect);
-         	__drag(motionevent, &mercyrect);
-		__drag(motionevent, &hanzorect);
-		__drag(motionevent, &luciorect);
-		__drag(motionevent, &zenyattarect);
+	if(Mix_Playing(channel) != 0) {
 
-		SDL_SetTextureBlendMode(junkrat, SDL_BLENDMODE_MOD);
-		SDL_SetTextureBlendMode(mercy, SDL_BLENDMODE_MOD);
-		SDL_SetTextureBlendMode(hanzo, SDL_BLENDMODE_MOD);
-		SDL_SetTextureBlendMode(lucio, SDL_BLENDMODE_MOD);
-		SDL_SetTextureBlendMode(zenyatta, SDL_BLENDMODE_MOD);
-		
+	}
+
+	__drag(motionevent, &junkratrect);
+	__drag(motionevent, &mercyrect);
+	__drag(motionevent, &hanzorect);
+	__drag(motionevent, &luciorect);
+	__drag(motionevent, &zenyattarect);
+
+	SDL_SetTextureBlendMode(junkrat, SDL_BLENDMODE_MOD);
+	SDL_SetTextureBlendMode(mercy, SDL_BLENDMODE_MOD);
+	SDL_SetTextureBlendMode(hanzo, SDL_BLENDMODE_MOD);
+	SDL_SetTextureBlendMode(lucio, SDL_BLENDMODE_MOD);
+	SDL_SetTextureBlendMode(zenyatta, SDL_BLENDMODE_MOD);
+
 	// SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
 
 	SDL_RenderClear(renderer);
@@ -96,7 +101,7 @@ main(int __attribute__ ((unused)) argc, char **
 	SDL_Init(SDL_INIT_EVERYTHING);
 	TTF_Init();
 	IMG_Init(IMG_INIT_JPG);
-	
+
 	__initwindow(&mainwindow, "debug");
 	__initrenderer(&renderer);
 	__inithandler(&mainflags);
@@ -110,7 +115,12 @@ main(int __attribute__ ((unused)) argc, char **
 
 
 	__loadttf(&menuttf, "font/LM-Regular.ttf", 20);
+	
+        Mix_OpenAudio(22050, AUDIO_S16SYS, 2, 4096);
+	bgm = Mix_LoadWAV("sound/bgm.wav");
 
+	channel = Mix_PlayChannel(-1, bgm, 0);
+	
 	startimgtexture = IMG_LoadTexture(renderer, "img/main.jpg");
 	junkrat = IMG_LoadTexture(renderer, "img/junkrat.jpg");
 	mercy = IMG_LoadTexture(renderer, "img/mercy.jpg");
@@ -128,26 +138,31 @@ main(int __attribute__ ((unused)) argc, char **
 	luciorect.y = rand() % (height - 128);
 	zenyattarect.x = rand() % (width - 128);
 	zenyattarect.y = rand() % (height - 128);
-        
+
 
 	mainflags.init = 1;
 	goto mainloop;
     }
 
+    Mix_FreeChunk(bgm);
+
     __destroyttf(&menuttf);
-    
+
     __destroytexture(&startimgtexture);
     __destroytexture(&junkrat);
     __destroytexture(&mercy);
     __destroytexture(&hanzo);
     __destroytexture(&lucio);
     __destroytexture(&zenyatta);
-    
+
     __destroywindow(&mainwindow);
 
     __destroyrenderer(&renderer);
 
     __destroyprinter();
+
+    Mix_CloseAudio();
+    Mix_Quit();
     
     TTF_Quit();
 

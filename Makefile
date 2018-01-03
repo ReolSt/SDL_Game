@@ -4,12 +4,13 @@ clean :
 debug :
 	mkdir debug \
 	&& cd src \
-	&& gcc -o ../debug/game -g `find . -name "*.c"` -lSDL2 -lSDL2_image -lSDL2_ttf \
+	&& gcc -o ../debug/game -g `find . -name "*.c"` -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer \
 	&& cd .. \
 	&& mkdir debug/log \
 	&& mkdir debug/img \
 	&& cp `find . -name "*.bmp" -o -name "*.jpg"` debug/img \
 	&& mkdir debug/sound \
+	&& cp `find . -name "*.wav"` debug/sound \
 	&& mkdir debug/font \
 	&& cp `find . -name "*.ttf"` debug/font
 
