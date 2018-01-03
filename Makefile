@@ -8,7 +8,7 @@ debug :
 	&& cd .. \
 	&& mkdir debug/log \
 	&& mkdir debug/img \
-	&& cp `find . -name "*.bmp" -o -name "*.jpg"` debug/img \
+	&& cp `find . -name "*.png" -o -name "*.jpg"` debug/img \
 	&& mkdir debug/sound \
 	&& cp `find . -name "*.wav"` debug/sound \
 	&& mkdir debug/font \

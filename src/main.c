@@ -70,17 +70,32 @@ main(int __attribute__ ((unused)) argc, char **
 
 	}
 
-	__drag(motionevent, &junkratrect);
-	__drag(motionevent, &mercyrect);
-	__drag(motionevent, &hanzorect);
-	__drag(motionevent, &luciorect);
-	__drag(motionevent, &zenyattarect);
-
-	SDL_SetTextureBlendMode(junkrat, SDL_BLENDMODE_MOD);
-	SDL_SetTextureBlendMode(mercy, SDL_BLENDMODE_MOD);
-	SDL_SetTextureBlendMode(hanzo, SDL_BLENDMODE_MOD);
-	SDL_SetTextureBlendMode(lucio, SDL_BLENDMODE_MOD);
-	SDL_SetTextureBlendMode(zenyatta, SDL_BLENDMODE_MOD);
+	if(__drag(motionevent, &junkratrect)) {
+	    
+	}
+	else {
+	    if(__drag(motionevent, &mercyrect)) {
+		
+	    }
+	    else {
+		if(__drag(motionevent, &hanzorect)) {
+		    
+		}
+		else {
+		    if(__drag(motionevent, &luciorect)) {
+			
+		    }
+		    else {
+			if(__drag(motionevent, &zenyattarect)) {
+			    
+			}
+			else {
+			    
+			}
+		    }
+		}
+	    }
+	}
 
 	// SDL_SetWindowFullscreen(mainwindow, SDL_WINDOW_FULLSCREEN);
 
@@ -92,6 +107,10 @@ main(int __attribute__ ((unused)) argc, char **
 	SDL_RenderCopy(renderer, hanzo, NULL, &hanzorect);
 	SDL_RenderCopy(renderer, lucio, NULL, &luciorect);
 	SDL_RenderCopy(renderer, zenyatta, NULL, &zenyattarect);
+	SDL_RenderDrawLine(renderer, 100, 100, 200, 100);
+	SDL_RenderDrawLine(renderer, 200, 100, 200, 200);
+	SDL_RenderDrawLine(renderer, 200, 200, 100, 200);
+	SDL_RenderDrawLine(renderer, 100, 200, 100, 100);
 
 	SDL_RenderPresent(renderer);
 	SDL_Delay(10);
@@ -114,19 +133,19 @@ main(int __attribute__ ((unused)) argc, char **
 	motionevent = &event.motion;
 
 
-	__loadttf(&menuttf, "font/LM-Regular.ttf", 20);
+	__loadttf(&menuttf, "font/koverwatch.ttf", 20);
 	
         Mix_OpenAudio(22050, AUDIO_S16SYS, 2, 4096);
 	bgm = Mix_LoadWAV("sound/bgm.wav");
 
 	channel = Mix_PlayChannel(-1, bgm, 0);
 	
-	startimgtexture = IMG_LoadTexture(renderer, "img/main.jpg");
-	junkrat = IMG_LoadTexture(renderer, "img/junkrat.jpg");
-	mercy = IMG_LoadTexture(renderer, "img/mercy.jpg");
-	hanzo = IMG_LoadTexture(renderer, "img/hanzo.jpg");
-	lucio = IMG_LoadTexture(renderer, "img/lucio.jpg");
-	zenyatta = IMG_LoadTexture(renderer, "img/zenyatta.jpg");
+	startimgtexture = IMG_LoadTexture(renderer, "img/white2.png");
+	junkrat = IMG_LoadTexture(renderer, "img/junkrat.png");
+	mercy = IMG_LoadTexture(renderer, "img/mercy.png");
+	hanzo = IMG_LoadTexture(renderer, "img/hanzo.png");
+	lucio = IMG_LoadTexture(renderer, "img/lucio.png");
+	zenyatta = IMG_LoadTexture(renderer, "img/zenyatta.png");
 
 	junkratrect.x = rand() % (width - 128);
 	junkratrect.y = rand() % (height - 128);
@@ -186,17 +205,6 @@ __initrenderer(SDL_Renderer ** rendererptr) {
     *rendererptr = SDL_CreateRenderer(mainwindow, -1,
 				      SDL_RENDERER_ACCELERATED);
     __errorcheck(*rendererptr, "renderer");
-}
-
-void
-__loadimage(SDL_Texture ** imgtexture, SDL_Renderer * renderer,
-	    const char *restrict filename) {
-    SDL_Surface    *dummysurface = NULL;
-    dummysurface = IMG_Load(filename);
-    __errorcheck(dummysurface, "loadimage_IMG_Load");
-    *imgtexture = SDL_CreateTextureFromSurface(renderer, dummysurface);
-    SDL_FreeSurface(dummysurface);
-    __errorcheck(*imgtexture, "loadimage");
 }
 
 void
