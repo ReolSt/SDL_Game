@@ -102,9 +102,9 @@ main(int __attribute__ ((unused)) argc, char **
 	SDL_RenderCopy(renderer, hanzo, NULL, &hanzorect);
 	SDL_RenderCopy(renderer, lucio, NULL, &luciorect);
 	SDL_RenderCopy(renderer, zenyatta, NULL, &zenyattarect);
-	
+
 	__drawrect(renderer, 100, 100, 100);
-	
+
 	SDL_RenderPresent(renderer);
 	SDL_Delay(10);
     }
