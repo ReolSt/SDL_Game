@@ -11,8 +11,8 @@ SDL_KeyboardEvent *keyboardevent;
 SDL_MouseMotionEvent *motionevent;
 SDL_MouseButtonEvent *buttonevent;
 
-Mix_Chunk* bgm;
-int channel;
+Mix_Chunk      *bgm;
+int             channel;
 
 SDL_Texture    *startimgtexture;
 SDL_Texture    *mainmenutexture;
@@ -66,31 +66,26 @@ main(int __attribute__ ((unused)) argc, char **
 	    }
 	}
 
-	if(Mix_Playing(channel) != 0) {
+	if (Mix_Playing(channel) != 0) {
 
 	}
 
-	if(__drag(motionevent, &junkratrect)) {
-	    
-	}
-	else {
-	    if(__drag(motionevent, &mercyrect)) {
-		
-	    }
-	    else {
-		if(__drag(motionevent, &hanzorect)) {
-		    
-		}
-		else {
-		    if(__drag(motionevent, &luciorect)) {
-			
-		    }
-		    else {
-			if(__drag(motionevent, &zenyattarect)) {
-			    
-			}
-			else {
-			    
+	if (__drag(motionevent, &junkratrect)) {
+
+	} else {
+	    if (__drag(motionevent, &mercyrect)) {
+
+	    } else {
+		if (__drag(motionevent, &hanzorect)) {
+
+		} else {
+		    if (__drag(motionevent, &luciorect)) {
+
+		    } else {
+			if (__drag(motionevent, &zenyattarect)) {
+
+			} else {
+
 			}
 		    }
 		}
@@ -107,11 +102,9 @@ main(int __attribute__ ((unused)) argc, char **
 	SDL_RenderCopy(renderer, hanzo, NULL, &hanzorect);
 	SDL_RenderCopy(renderer, lucio, NULL, &luciorect);
 	SDL_RenderCopy(renderer, zenyatta, NULL, &zenyattarect);
-	SDL_RenderDrawLine(renderer, 100, 100, 200, 100);
-	SDL_RenderDrawLine(renderer, 200, 100, 200, 200);
-	SDL_RenderDrawLine(renderer, 200, 200, 100, 200);
-	SDL_RenderDrawLine(renderer, 100, 200, 100, 100);
-
+	
+	__drawrect(renderer, 100, 100, 100);
+	
 	SDL_RenderPresent(renderer);
 	SDL_Delay(10);
     }
@@ -134,12 +127,12 @@ main(int __attribute__ ((unused)) argc, char **
 
 
 	__loadttf(&menuttf, "font/koverwatch.ttf", 20);
-	
-        Mix_OpenAudio(22050, AUDIO_S16SYS, 2, 4096);
+
+	Mix_OpenAudio(22050, AUDIO_S16SYS, 2, 4096);
 	bgm = Mix_LoadWAV("sound/bgm.wav");
 
 	channel = Mix_PlayChannel(-1, bgm, 0);
-	
+
 	startimgtexture = IMG_LoadTexture(renderer, "img/white2.png");
 	junkrat = IMG_LoadTexture(renderer, "img/junkrat.png");
 	mercy = IMG_LoadTexture(renderer, "img/mercy.png");
@@ -182,7 +175,7 @@ main(int __attribute__ ((unused)) argc, char **
 
     Mix_CloseAudio();
     Mix_Quit();
-    
+
     TTF_Quit();
 
     IMG_Quit();

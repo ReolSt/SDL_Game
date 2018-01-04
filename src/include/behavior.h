@@ -3,5 +3,5 @@
 
 #include "library.h"
 
-int            __drag(SDL_MouseMotionEvent *, SDL_Rect *);
+int             __drag(SDL_MouseMotionEvent *, SDL_Rect *);
 #endif
